@@ -1,101 +1,1276 @@
-"id","name","country","sc_url"
-29450,"rl grime","United States","http://www.soundcloud.com/rlgrime"
-28554,"cyril hahn","Canada","http://www.soundcloud.com/cyrilhahn"
-26233,"pretty lights","United States","http://www.soundcloud.com/prettylights"
-18425,"âme","Germany","http://www.soundcloud.com/ame"
-26332,"shlohmo","United States","http://www.soundcloud.com/shlohmo"
-16924,"dixon","Germany","http://www.soundcloud.com/innervisions"
-32546,"parov stelar","Austria","http://www.soundcloud.com/parov_stelar"
-30455,"onra","France","http://www.soundcloud.com/onra"
-26859,"haywyre","Canada","http://www.soundcloud.com/haywyre"
-26223,"brennan heart","Netherlands","http://www.soundcloud.com/brennanheart"
-34205,"bat for lashes","Britain (UK)","http://www.soundcloud.com/batforlashes"
-609,"sebastien leger","France","http://www.soundcloud.com/sebastienleger"
-26647,"frontliner","Netherlands","http://www.soundcloud.com/frontliner"
-25936,"sampha","Britain (UK)","http://www.soundcloud.com/samphamusic"
-15909,"ana","Germany","http://www.soundcloud.com/dj-ana"
-28502,"kelela","United States","http://www.soundcloud.com/kelelam"
-25750,"pendulum","Britain (UK)","http://www.soundcloud.com/pendulum"
-28623,"jean tonique","France","http://www.soundcloud.com/jeantonique"
-26055,"crissy criss","Britain (UK)","http://www.soundcloud.com/crissycriss"
-11771,"edu imbernon","Spain","http://www.soundcloud.com/imbernonmusic"
-26082,"sinjin hawke","Spain","http://www.soundcloud.com/sinjin_hawke"
-11192,"re.you","Germany","http://www.soundcloud.com/reyou"
-1351,"gus gus","Iceland","http://www.soundcloud.com/gusgus"
-29771,"sultan + shepard","United States","http://www.soundcloud.com/sultanshepard"
-304412,"two fresh","United States","http://www.soundcloud.com/twofreshbeats"
-29440,"groundislava","United States","http://www.soundcloud.com/groundislava"
-26237,"heatbeat","Argentina","http://www.soundcloud.com/heatbeat"
-27133,"current value","Germany","http://www.soundcloud.com/tim-e-aka-current-value"
-25544,"presha","Germany","http://www.soundcloud.com/samuraimusicgroup"
-26183,"taylor mcferrin","United States","http://www.soundcloud.com/taylor-mcferrin"
-28490,"ras g","US minor outlying islands","http://www.soundcloud.com/ras_g"
-40489,"paolo ortelli","Italy","http://www.soundcloud.com/paolo-ortelli"
-40779,"m.o.o.n.","United States","http://www.soundcloud.com/moon_music"
-102,"jerome sydenham","Germany","http://www.soundcloud.com/ibadan"
-26759,"jeremiah jae","United States","http://www.soundcloud.com/jeremiahjae"
-1316,"submerge","United States","http://www.soundcloud.com/submerge"
-28023,"mat the alien","Canada","http://www.soundcloud.com/matthealien"
-11992,"björn torwellen","Germany","http://www.soundcloud.com/b-t"
-28666,"fourward","Austria","http://www.soundcloud.com/fourward"
-26209,"total freedom","United States","http://www.soundcloud.com/totalfreedom"
-29447,"jerome lol","United States","http://www.soundcloud.com/jeromelol"
-3974,"ardalan","United States","http://www.soundcloud.com/ardalann"
-31672,"oceaan","Britain (UK)","http://www.soundcloud.com/ocea-n"
-31677,"telepopmusik","France","http://www.soundcloud.com/telepopmusiktm"
-9796,"dj glen","Brazil","http://www.soundcloud.com/djglendj"
-25718,"lisa lashes","Britain (UK)","http://www.soundcloud.com/djlisalashes"
+"dj_id","name","country","soundcloud_url"
+1070,"illum sphere",NULL,"http://www.soundcloud.com/illum-sphere"
+9632,"kutmah",NULL,"http://www.soundcloud.com/kutmah-beats"
+9674,"elijah and skilliam",NULL,"http://www.soundcloud.com/ElijahSkilliam"
+18994,"blackdown","united kingdom",NULL
+26099,"lhf","united kingdom",NULL
+10337,"distance","united kingdom",NULL
+11955,"spectrasoul",NULL,"http://www.soundcloud.com/spectrasoul"
+14010,"ant tc1",NULL,"http://www.soundcloud.com/anttc1"
+15749,"grooverider","united kingdom",NULL
+15752,"dj hype","united kingdom",NULL
+17155,"ltj bukem","united kingdom",NULL
+20512,"dillinja","united kingdom",NULL
+22243,"daniel avery",NULL,"http://www.soundcloud.com/danielavery"
+1558,"tayo","united kingdom",NULL
+6275,"groove armada","Britain (UK)","http://www.soundcloud.com/groove-armada-1"
+16253,"kolsch","Denmark","http://www.soundcloud.com/kolsch"
+20860,"jaymo & andy george",NULL,"http://www.soundcloud.com/jaymoandandygeorge"
+21356,"finnebassen","Norway","http://www.soundcloud.com/finnebassen"
+26377,"trancemicsoul","South Africa","http://www.soundcloud.com/trancemicsoul"
+5364,"lenzman","Netherlands","http://www.soundcloud.com/lenzman"
+7023,"dj marky","Brazil",NULL
+8002,"my nu leng",NULL,"http://www.soundcloud.com/mynuleng"
+18648,"chromatics","usa",NULL
+25874,"foreign beggars","united kingdom",NULL
+26067,"monki",NULL,"http://www.soundcloud.com/monki-1"
+26322,"gotsome",NULL,"http://www.soundcloud.com/gotsome"
+26378,"amy becker",NULL,"http://www.soundcloud.com/amybeckerdj"
+5983,"d-bridge","united kingdom",NULL
+11841,"calibre","ireland",NULL
+12194,"banton","united kingdom",NULL
+15573,"lsb","united kingdom",NULL
+15738,"marcus intalex","united kingdom",NULL
+17837,"netsky","belgium",NULL
+20486,"teebee","Netherlands","http://www.soundcloud.com/Djteebee"
+20493,"calyx",NULL,"http://www.soundcloud.com/calyx"
+1235,"nymfo","Netherlands","http://www.soundcloud.com/nymfo"
+5572,"alix perez","united kingdom",NULL
+8209,"black sun empire","netherlands",NULL
+15748,"high contrast","united kingdom",NULL
+22742,"ed rush","united kingdom",NULL
+26074,"joe ford","Britain (UK)","http://www.soundcloud.com/forddnb"
+26089,"phace","Germany","http://www.soundcloud.com/phace"
 26090,"misanthrop","Germany","http://www.soundcloud.com/misanthropNSGNL"
-25889,"pete tha zouk","Portugal","http://www.soundcloud.com/djpetethazouk"
+10769,"doc scott","united kingdom",NULL
+13755,"youngman","united kingdom",NULL
+16360,"zero t","united kingdom",NULL
+2603,"marco bailey","Belgium","http://www.soundcloud.com/marco-bailey"
+8577,"carlo lio","Canada","http://www.soundcloud.com/carlolio"
+9242,"monika kruse","Germany","http://www.soundcloud.com/monikakruse"
+10595,"carl cox","Britain (UK)","http://www.soundcloud.com/carl-cox"
+11010,"jon rundell","Britain (UK)","http://www.soundcloud.com/jon-rundell"
+11211,"harvey mckay","united kingdom",NULL
+9094,"cormac",NULL,"http://www.soundcloud.com/cormac"
+18215,"peter pixzel","united kingdom",NULL
+18228,"jacob husley","united kingdom",NULL
+18643,"marc houle","Germany","http://www.soundcloud.com/marchoule"
+25847,"sam bangura","united kingdom",NULL
+26248,"lamache","united kingdom",NULL
+26040,"jane fitz",NULL,"http://www.soundcloud.com/janefitz"
+22604,"scott palmer",NULL,"http://www.soundcloud.com/project-london-records"
+11653,"gabriel amaru",NULL,"http://www.soundcloud.com/gabriel_amaru"
+11689,"dragos ungureanu",NULL,"http://www.soundcloud.com/scaramous"
+26230,"dean marc","united kingdom",NULL
+23,"ricardo villalobos","Chile","http://www.soundcloud.com/ricardo-villalobos-off"
+6685,"stacey pullen","United States","http://www.soundcloud.com/staceypullen"
+7883,"terry francis","united kingdom",NULL
+15753,"craig richards","united kingdom",NULL
+26372,"amir javasoul","Canada","http://www.soundcloud.com/amirjavasoul"
+163,"cari lekebusch",NULL,"http://www.soundcloud.com/carilekebusch"
+728,"tuccillo","spain",NULL
+981,"moodymanc","united kingdom",NULL
+4166,"peter van hoesen","Germany","http://www.soundcloud.com/petervanhoesen"
+4904,"brodanse",NULL,"http://www.soundcloud.com/brodanse"
+11200,"matador","Ireland","http://www.soundcloud.com/matador_official"
+20226,"josh wink","usa",NULL
+22,"rhadoo","romania",NULL
+24,"thomas melchior","germany",NULL
+730,"subb-an",NULL,"http://www.soundcloud.com/subb-an"
+819,"d'julz","France","http://www.soundcloud.com/djulz"
+832,"adam shelton","united kingdom",NULL
+837,"acid mondays","Spain","http://www.soundcloud.com/acid-mondays"
+985,"lee pennington","united kingdom",NULL
+1269,"john dimas","Germany","http://www.soundcloud.com/john-dimas"
+5118,"soul capsule","united kingdom",NULL
+5140,"baby ford","united kingdom",NULL
+14328,"akufen","canada",NULL
+16348,"ferro","Netherlands","http://www.soundcloud.com/ferro"
+20576,"milhouse","Britain (UK)","http://www.soundcloud.com/jmilhouse"
+23233,"philip stirzaker","united kingdom",NULL
+4250,"joey anderson","United States","http://www.soundcloud.com/joey-anderson"
+4419,"point g",NULL,"http://www.soundcloud.com/point-g-3"
+4451,"funkineven","Britain (UK)","http://www.soundcloud.com/funkineven"
+5835,"nick höppner","Germany","http://www.soundcloud.com/nick-hoeppner"
+5862,"bicep",NULL,"http://www.soundcloud.com/feelmybicep"
+7333,"tim sweeney","United States","http://www.soundcloud.com/timsweeney"
+16782,"kyle hall","United States","http://www.soundcloud.com/wild-oats-music"
+18442,"k15",NULL,"http://www.soundcloud.com/k15"
+25601,"ali tillett","united kingdom",NULL
+26375,"ollie seaman","united kingdom",NULL
+26376,"myles mears","united kingdom",NULL
+2281,"alex arnout","united kingdom",NULL
+2458,"kirk degiorgio","united kingdom",NULL
+2620,"steve bug","Germany","http://www.soundcloud.com/stevebug"
+6730,"ben sims",NULL,"http://www.soundcloud.com/ben-sims"
+6857,"john barera",NULL,"http://www.soundcloud.com/johnbarera"
+10994,"detroit swindle","Netherlands","http://www.soundcloud.com/detroitswindle"
+14267,"will martin","United States","http://www.soundcloud.com/will_martin"
+18285,"marcel fengler","Germany","http://www.soundcloud.com/marcel-fengler"
+18786,"tom rio","united kingdom",NULL
+18790,"dan wild","united kingdom",NULL
+1415,"cosmin trg","Germany","http://www.soundcloud.com/trg"
+10582,"tim green",NULL,"http://www.soundcloud.com/Timgreen"
+10730,"tiefschwarz","germany",NULL
+10961,"lucy","Germany","http://www.soundcloud.com/lucy"
+429,"steve rachmad","Netherlands","http://www.soundcloud.com/steverachmad"
+2967,"joseph capriati","Italy","http://www.soundcloud.com/joseph-capriati"
+6654,"joris voorn","Netherlands","http://www.soundcloud.com/joris-voorn"
+5847,"glimpse","Britain (UK)","http://www.soundcloud.com/glimpse"
+1649,"steve lawler","Britain (UK)","http://www.soundcloud.com/steve-lawler"
+813,"crazy p",NULL,"http://www.soundcloud.com/crazyp"
+10739,"rob mello","united kingdom",NULL
+16723,"seb zito",NULL,"http://www.soundcloud.com/sebzito"
+17858,"richy ahmed",NULL,"http://www.soundcloud.com/richyahmed"
+3003,"maya jane coles",NULL,"http://www.soundcloud.com/mayajanecoles"
+8207,"regis","united kingdom",NULL
+8616,"surgeon","Britain (UK)","http://www.soundcloud.com/dynamic-tension"
+14280,"clive henry","united kingdom",NULL
+16739,"chris maran","Britain (UK)","http://www.soundcloud.com/chris-maran"
+16952,"kim ann foxman","United States","http://www.soundcloud.com/kimannfoxman"
+25520,"bill patrick","Aaland Islands","http://www.soundcloud.com/billpatrick"
+26092,"lee rands","united kingdom",NULL
+1430,"marcel dettmann","Germany","http://www.soundcloud.com/marceldettmann"
+2006,"eddie richards",NULL,"http://www.soundcloud.com/eddie-richards"
+4209,"answer code request","Germany","http://www.soundcloud.com/answercoderequest"
+6080,"oli furness",NULL,"http://www.soundcloud.com/wally-00"
+6291,"samu.l",NULL,"http://www.soundcloud.com/samu_l"
+12805,"anthony parasole","United States","http://www.soundcloud.com/the-corner_brooklyn"
+18695,"magda","United States","http://www.soundcloud.com/magda-official"
+14,"raresh","Ireland","http://www.soundcloud.com/t-polar"
+29,"praslea","romania",NULL
+5136,"voigtmann",NULL,"http://www.soundcloud.com/voigtmann"
+10610,"audio werner","germany",NULL
+18336,"dave clarke","Netherlands","http://www.soundcloud.com/dave-clarke-dj-sets"
+22067,"rrose","",NULL
+24932,"praslesh","romania",NULL
+1679,"justin drake","united kingdom",NULL
+3758,"appleblim","united kingdom",NULL
+7835,"the pushamann","united kingdom",NULL
+8629,"ben klock","Germany","http://www.soundcloud.com/ben-klock"
+10458,"ryan elliott","Germany","http://www.soundcloud.com/ryan-elliott"
+10912,"space dimension controller","Madagascar","http://www.soundcloud.com/spacedimensioncontroller"
+12499,"alex smoke","united kingdom",NULL
+17935,"second storey",NULL,"http://www.soundcloud.com/second_storey"
+20213,"lone","United States","https://soundcloud.com/lone-1"
+346,"john tejada","usa",NULL
+1691,"daniel bell","usa",NULL
+4386,"delano smith","United States","http://www.soundcloud.com/mixmodedetroit"
+9784,"tobias.","Germany","http://www.soundcloud.com/tobias-freund"
+19266,"michael mayer","Germany","http://www.soundcloud.com/kompakt"
+19735,"shaun soomro",NULL,"http://www.soundcloud.com/shaun-soomro"
+22107,"yossi amoyal","Germany","http://www.soundcloud.com/sushitech"
+2788,"roberto","Britain (UK)","http://www.soundcloud.com/robertodj"
+7640,"seth troxler",NULL,"http://www.soundcloud.com/sethtroxler"
+8623,"robert hood","usa",NULL
+10598,"the martinez brothers","usa",NULL
+21954,"jasper james",NULL,"http://www.soundcloud.com/djjasperjames"
+24614,"karenn","united kingdom",NULL
+26208,"route 94",NULL,"http://www.soundcloud.com/route94"
+26392,"bas ibellini",NULL,"http://www.soundcloud.com/basibellini"
+257,"system","denmark",NULL
+5844,"pearson sound","Britain (UK)","http://www.soundcloud.com/pearsonsound"
+17440,"pangaea","Britain (UK)","http://www.soundcloud.com/pangaea"
+17671,"ben ufo","Britain (UK)","http://www.soundcloud.com/benufo"
+25315,"jackmaster",NULL,"http://www.soundcloud.com/jackmaster"
+9246,"ben pearce","united kingdom",NULL
+10828,"dj die","Britain (UK)","http://www.soundcloud.com/gutterfunk"
+13928,"secondcity",NULL,"http://www.soundcloud.com/secondcityuk"
+15732,"scratch perverts","united kingdom",NULL
+16266,"pete graham",NULL,"http://www.soundcloud.com/pete-graham"
+19889,"dorsia",NULL,"http://www.soundcloud.com/dorsia-music"
+26385,"henry krinkle","United States","http://www.soundcloud.com/henry-krinkle"
+1408,"oneman",NULL,NULL
+2629,"tyree cooper","Germany","http://www.soundcloud.com/jack-the-box-54"
+12373,"parris mitchell","United States","http://www.soundcloud.com/victor-parris-mitchell"
+14502,"bok bok",NULL,"http://www.soundcloud.com/bokbok"
+16606,"charles t drakeford",NULL,"http://www.soundcloud.com/charlesdrakeford"
+21983,"dj ez","Britain (UK)","http://www.soundcloud.com/djez"
+25277,"tasker",NULL,"http://www.soundcloud.com/whities"
+25963,"martelo",NULL,NULL
+26095,"flava d",NULL,"http://www.soundcloud.com/flava_d"
+26255,"bradley zero",NULL,"http://www.soundcloud.com/bradleyzero"
+26388,"bodyjack",NULL,"http://www.soundcloud.com/bodyjack"
+14218,"fierce","united kingdom",NULL
+22383,"hatcha","united kingdom",NULL
+24471,"plastician","united kingdom",NULL
 26111,"logan sama","Britain (UK)","http://www.soundcloud.com/keepinitgrimy"
-21951,"suspekt","Australia","http://www.soundcloud.com/open-records"
-28953,"naeleck","France","http://www.soundcloud.com/naeleck"
-26181,"octane & dlr","Britain (UK)","http://www.soundcloud.com/octane-dlr"
-33571,"noize generation","Germany","http://www.soundcloud.com/noizegeneration"
-41393,"basilisk","Taiwan","http://www.soundcloud.com/ektoplazm"
-6691,"rod","Netherlands","http://www.soundcloud.com/rodmalmok"
-1721,"marko nastic","Serbia","http://www.soundcloud.com/markonastic"
-25452,"serge devant","United States","http://www.soundcloud.com/SergeDevant"
-25577,"juanjo martin","Spain","http://www.soundcloud.com/juanjomartin"
-307660,"stillhead","Latvia","http://www.soundcloud.com/stillhead"
-32874,"bjarki","Iceland","http://www.soundcloud.com/bjarki"
-3244,"leon","Italy","http://www.soundcloud.com/leon-music"
-29210,"cid rim","Austria","http://www.soundcloud.com/cidrim"
-29484,"doshy","Germany","http://www.soundcloud.com/doshy"
-13961,"cosmonauts","Britain (UK)","http://www.soundcloud.com/cosmonauts"
-34210,"julia holter","United States","http://www.soundcloud.com/juliaholter"
-25259,"cyclist","Canada","http://www.soundcloud.com/cyclist"
-17553,"nick coleman","Australia","http://www.soundcloud.com/Suckmusic"
-38479,"evenings","United States","http://www.soundcloud.com/evenings"
-25469,"boogs","Australia","http://www.soundcloud.com/boogs"
-30416,"beacon","United States","http://www.soundcloud.com/beaconmusicnyc"
-22715,"grenier","United States","http://www.soundcloud.com/deangrenier"
-29385,"sabrepulse","Britain (UK)","http://www.soundcloud.com/sabrepulse"
-7031,"dj qu","United States","http://www.soundcloud.com/djqu-strength-music"
-26527,"gant-man","United States","http://www.soundcloud.com/djgantman"
-10682,"left","Switzerland","http://www.soundcloud.com/gregorythme"
-307540,"reflex","France","http://www.soundcloud.com/reflexreflex"
-29058,"low limit","United States","http://www.soundcloud.com/lowlimit"
-16505,"the horrorist","United States","http://www.soundcloud.com/thingstocome"
-31382,"rangleklods","Denmark","http://www.soundcloud.com/rangleklods"
-25993,"dysphemic","Australia","http://www.soundcloud.com/dysphemic0"
-20643,"fer br","Spain","http://www.soundcloud.com/ferbr"
-41659,"trei","New Zealand","http://www.soundcloud.com/trei"
-32443,"noizar","Ukraine","http://www.soundcloud.com/the-wicked-bass"
-305027,"erick decks","Germany","http://www.soundcloud.com/erickdecks"
-31992,"youand:themachines","Germany","http://www.soundcloud.com/youandme-martin"
-39381,"jean claude gavri","Israel","http://www.soundcloud.com/jeanclaudegavri"
-40319,"the panacea","Germany","http://www.soundcloud.com/thepanaceaofficial"
-307580,"jack of sound","Netherlands","http://www.soundcloud.com/JackofSound"
-40445,"animalis","Russia","http://www.soundcloud.com/animalis"
-7661,"vidis","Lithuania","http://www.soundcloud.com/vidis"
-26817,"octo octa","United States","http://www.soundcloud.com/octoocta"
-32520,"syracuse","France","http://www.soundcloud.com/antinote-records"
-9631,"pytzek","Croatia","http://www.soundcloud.com/burek"
-15877,"paskal & urban absolutes","Germany","http://www.soundcloud.com/paskal-1"
-28486,"vessels","Britain (UK)","http://www.soundcloud.com/vessels"
-15027,"dolan bergin","Britain (UK)","http://www.soundcloud.com/electricminds"
-28255,"joe t vannelli","Italy","http://www.soundcloud.com/joetvannelli"
-8404,"teho","France","http://www.soundcloud.com/teho"
+26391,"source direct","united kingdom",NULL
+27,"breakage","united kingdom",NULL
+7484,"maksim","United States",NULL
+11939,"kasra",NULL,"http://www.soundcloud.com/critical-music"
+11942,"foreign concept",NULL,"http://www.soundcloud.com/foreignconcept"
+11943,"enei","Russia","http://www.soundcloud.com/enei"
+22795,"sub focus","Britain (UK)","http://www.soundcloud.com/subfocus"
+10838,"joker","united kingdom",NULL
+13645,"mumdance",NULL,"http://www.soundcloud.com/mumdance"
+21790,"darq e freaker",NULL,"http://www.soundcloud.com/darqefreaker"
+835,"lorca",NULL,"http://www.soundcloud.com/lorcamusic"
+846,"hackman",NULL,"http://www.soundcloud.com/hackman"
+871,"breach","Netherlands","http://www.soundcloud.com/breach-uk"
+5555,"cinnaman","Netherlands","http://www.soundcloud.com/cinnaman"
+8244,"cropper",NULL,"http://www.soundcloud.com/Cropper"
+10937,"marquis hawkes","Germany","http://www.soundcloud.com/marquis-hawkes"
+26188,"jon rust","united kingdom",NULL
+26234,"the menendez brothers",NULL,"http://www.soundcloud.com/themenendezbrothers"
+7028,"bachelors of science","United States","http://www.soundcloud.com/bachelorsofscience"
+15642,"skeptical","Britain (UK)","http://www.soundcloud.com/skeptical"
+11365,"klute","united kingdom",NULL
+11957,"jubei",NULL,"http://www.soundcloud.com/jubei-1"
+18312,"goldie","united kingdom",NULL
+13756,"redlight",NULL,"http://www.soundcloud.com/redlight-uk"
+14680,"btk",NULL,"http://www.soundcloud.com/btk"
+19936,"mak & pasteman",NULL,"http://www.soundcloud.com/mak_and_pasteman"
+22738,"optical","united kingdom",NULL
+24735,"loxy","Britain (UK)","http://www.soundcloud.com/loxy_"
+13130,"simian mobile disco","united kingdom",NULL
+8692,"stripes","Britain (UK)","http://www.soundcloud.com/stripesmusic"
+11366,"dub phizix","Britain (UK)","http://www.soundcloud.com/dubphizix"
+14747,"preditah",NULL,"http://www.soundcloud.com/preditah"
+25997,"slimzee","united kingdom",NULL
+17154,"madcap","united kingdom",NULL
+26219,"vandera","Netherlands","http://www.soundcloud.com/vandera"
+2301,"dan farserelli",NULL,"http://www.soundcloud.com/dan-farserelli"
+23779,"rhys samson",NULL,"http://www.soundcloud.com/rhyssamson"
+7282,"alexkid","Germany","http://www.soundcloud.com/alexkid"
+4785,"ashworth",NULL,"http://www.soundcloud.com/joeashworth"
+6915,"dan beaumont",NULL,"http://www.soundcloud.com/danbeaumont"
+12142,"dewalta","germany",NULL
+12935,"scott kemp",NULL,"http://www.soundcloud.com/scott-kemp"
+18963,"frazer campbell",NULL,"http://www.soundcloud.com/frazer-campbell"
+151,"nina kraviz",NULL,"http://www.soundcloud.com/nina-kraviz"
+729,"ralph lawson",NULL,"http://www.soundcloud.com/ralphlawson"
+3416,"premiesku","Romania","http://www.soundcloud.com/premiesku"
+6290,"sven tasnadi","Germany","http://www.soundcloud.com/sven-tasnadi"
+10434,"exos","iceland",NULL
+14290,"mr. g","united kingdom",NULL
+2545,"dyed soundorom","France","http://www.soundcloud.com/jedsasoundorom"
+2546,"dan ghenacia","France","http://www.soundcloud.com/dan-ghenacia"
+3094,"wildkats",NULL,"http://www.soundcloud.com/wildkats"
+4403,"shonky","france",NULL
+4406,"apollonia","France","http://www.soundcloud.com/apolloniamusic"
+15619,"slam",NULL,"http://www.soundcloud.com/soma"
+17906,"ashley wild",NULL,"http://www.soundcloud.com/ashley-wild"
+26398,"job jobse","Netherlands","http://www.soundcloud.com/jobjobse"
+9156,"matt tolfrey",NULL,"http://www.soundcloud.com/matt-tolfrey"
+785,"ejeca",NULL,"http://www.soundcloud.com/ejeca"
+1058,"stimming","Germany","http://www.soundcloud.com/stimming"
+11659,"antony difrancesco","Britain (UK)","http://www.soundcloud.com/antonydifrancesco"
+13387,"harry mccanna","Britain (UK)","http://www.soundcloud.com/harry-mccanna"
+14144,"david august","germany",NULL
+16729,"dan lively",NULL,"http://www.soundcloud.com/dan-lively"
+16737,"samuel bellis",NULL,"http://www.soundcloud.com/samuel-bellis"
+26178,"d.e.s","Britain (UK)","http://www.soundcloud.com/deep-end-1"
+26393,"christian ab","united kingdom",NULL
+270,"chris liebing","Germany","http://www.soundcloud.com/clr"
+1779,"remi mazet","united kingdom",NULL
+4506,"dop","France","http://www.soundcloud.com/dopofficial"
+4723,"kink","Bulgaria","http://www.soundcloud.com/kink"
+18120,"daniel (uk)",NULL,"http://www.soundcloud.com/danielcercatrova"
+19345,"leroy roberts",NULL,"http://www.soundcloud.com/leroyrobertsdj"
+26426,"jnr windross",NULL,"http://www.soundcloud.com/jnrwindross"
+26427,"h.e.r",NULL,"http://www.soundcloud.com/h_e_r"
+26428,"kalvyn james",NULL,"http://www.soundcloud.com/kalvynjames"
+988,"inxec",NULL,"http://www.soundcloud.com/inxec"
+3375,"norman nodge","Germany","http://www.soundcloud.com/norman-nodge"
+6046,"gareth wild","Britain (UK)","http://www.soundcloud.com/eartoground"
+8276,"black asteroid","United States","http://www.soundcloud.com/blackasteroid"
+12007,"fur coat",NULL,"http://www.soundcloud.com/furcoatmusic"
+12170,"benoit & sergio",NULL,"http://www.soundcloud.com/BenoitAndSergio"
+14275,"laura jones","united kingdom",NULL
+378,"lo shea",NULL,"http://www.soundcloud.com/loshea"
+3061,"session victim","Germany","http://www.soundcloud.com/sessionvictim"
+12774,"levon vincent","usa",NULL
+16944,"pirate copy","Britain (UK)","http://www.soundcloud.com/piratecopy"
+17857,"patrick topping",NULL,"http://www.soundcloud.com/patricktopping"
+18852,"pete zorba","Britain (UK)","http://www.soundcloud.com/petezorba"
+19769,"clockwork","Italy","http://www.soundcloud.com/c-w"
+21677,"boddika","united kingdom",NULL
+9764,"binh","Germany","http://www.soundcloud.com/binh"
+10913,"roman flügel","germany",NULL
+6242,"tania vulcano","spain",NULL
+10008,"unai trotti","Britain (UK)","http://www.soundcloud.com/unai-trotti"
+11210,"dubfire","United States","http://www.soundcloud.com/scitec"
+26399,"jon sojo","united kingdom",NULL
+788,"dj w!ld","France","http://www.soundcloud.com/djwild"
+2254,"georgia girl",NULL,"http://www.soundcloud.com/georgia-girl"
+10712,"m.a.n.d.y.","Germany","http://www.soundcloud.com/m-a-n-d-y"
+20471,"luca rosa",NULL,"http://www.soundcloud.com/lucarosa"
+21194,"jason glanville",NULL,"http://www.soundcloud.com/jason-glanville"
+26409,"max albàn","germany",NULL
+26410,"tim ross",NULL,"http://www.soundcloud.com/tim-ross"
+34,"dj sneak","Canada","http://www.soundcloud.com/dj-sneak"
+122,"will saul",NULL,"http://www.soundcloud.com/willsaul"
+515,"derrick carter","United States","http://www.soundcloud.com/blucu"
+818,"jimpster",NULL,"http://www.soundcloud.com/jimpster"
+1464,"gerd","Netherlands","http://www.soundcloud.com/gerd"
+4148,"youandewan",NULL,"http://www.soundcloud.com/youandewan"
+7463,"matt masters","Britain (UK)","http://www.soundcloud.com/matt-masters"
+11399,"manuel tur",NULL,"http://www.soundcloud.com/manueltur"
+18345,"bwana",NULL,"http://www.soundcloud.com/darts-1"
+18393,"peter glasspool","united kingdom",NULL
+26397,"hash hendrex","Romania","http://www.soundcloud.com/hashhendrex"
+23176,"andrea giudice",NULL,"http://www.soundcloud.com/andreagiudice"
+26211,"mathieu mirande","united kingdom",NULL
+4952,"colin chiddle","united kingdom",NULL
+21867,"odd music",NULL,"http://www.soundcloud.com/odd_mixes"
+15347,"michael l penman",NULL,"http://www.soundcloud.com/michaellpenman"
+21217,"sonogama","united kingdom",NULL
+26405,"scarlett house",NULL,"http://www.soundcloud.com/scarlett-house"
+22605,"joe morley",NULL,"http://www.soundcloud.com/joe-morley-ep"
+26192,"charlie dave kent","Britain (UK)","http://www.soundcloud.com/charliedavekent"
+1376,"truncate","United States","http://www.soundcloud.com/truncate"
+2424,"sonja moonear","Switzerland","http://www.soundcloud.com/moonear"
+2626,"roger gerressen","netherlands",NULL
+2915,"flori",NULL,"http://www.soundcloud.com/flori"
+4470,"ethyl",NULL,"http://www.soundcloud.com/EthylMusic"
+8048,"blm","united kingdom",NULL
+8651,"luke slater","Britain (UK)","http://www.soundcloud.com/luke-slater"
+12252,"efdemin","Germany","http://www.soundcloud.com/efdemin"
+14566,"ø [phase]","united kingdom",NULL
+5956,"skream",NULL,"http://www.soundcloud.com/skreamizm"
+8003,"maxxi soundsystem",NULL,"http://www.soundcloud.com/maxxisoundsystem"
+10593,"eats everything",NULL,"http://www.soundcloud.com/eatseverything"
+13431,"dense & pika","united kingdom",NULL
+26412,"denis sulta",NULL,"http://www.soundcloud.com/denissulta"
+8982,"scott grooves","usa",NULL
+12071,"art department","Canada","http://www.soundcloud.com/artdepartment"
+13266,"nitin","Canada","http://www.soundcloud.com/djnitin"
+21346,"kenny glasgow","canada",NULL
+2428,"mr c","United States","http://www.soundcloud.com/mrcsuperfreq"
+12167,"dance spirit","Spain","http://www.soundcloud.com/dance-spirit"
+14454,"function","usa",NULL
+15760,"ivan smagghe",NULL,"http://www.soundcloud.com/colonelgatito"
+24231,"xo chic","United States","http://www.soundcloud.com/xo-chic"
+7961,"benton","Britain (UK)","http://www.soundcloud.com/djbenton"
+10359,"jack beats","united kingdom",NULL
+12681,"buraka som sistema","portugal",NULL
+17845,"cyantific","united kingdom",NULL
+25762,"futurebound",NULL,"http://www.soundcloud.com/viperrecordings"
+26411,"felon",NULL,"http://www.soundcloud.com/felon"
+11941,"icicle",NULL,"http://www.soundcloud.com/iciclemusic"
+20422,"etherwood",NULL,"http://www.soundcloud.com/etherwood"
+26342,"tendai","Britain (UK)","http://www.soundcloud.com/tendai01"
+26413,"entropy","ireland",NULL
+37848,"s.p.y.","brazil",NULL
+823,"huxley",NULL,"http://www.soundcloud.com/huxley_uk"
+3009,"j.phlip","United States","http://www.soundcloud.com/jphlip"
+4143,"leftwing & kody",NULL,"http://www.soundcloud.com/leftwingaudio"
+17022,"dj q","united kingdom",NULL
+19724,"curses","Germany","http://www.soundcloud.com/cursesforever"
+308,"legowelt","Netherlands","http://www.soundcloud.com/legowelt-official"
+14264,"bruce",NULL,"http://www.soundcloud.com/iambruce"
+14576,"krystal klear",NULL,"http://www.soundcloud.com/krystalklear"
+17840,"maztek",NULL,"http://www.soundcloud.com/maztek"
+26418,"mef","italy",NULL
+24963,"dj haus",NULL,"http://www.soundcloud.com/hothausrecs"
+25461,"mat zo","united kingdom",NULL
+26029,"fred v","france",NULL
+26196,"moxie",NULL,"http://www.soundcloud.com/djmoxie"
+26305,"ruff sqwad","united kingdom",NULL
+39820,"state of mind","new zealand",NULL
+25975,"original sin","united kingdom",NULL
+22242,"erol alkan",NULL,"http://www.soundcloud.com/erolalkan"
+343,"mike shannon","Germany","http://www.soundcloud.com/michael-j-shannon-1"
+1040,"adriatique","Switzerland","http://www.soundcloud.com/adriatique"
+2444,"droog","United States","http://www.soundcloud.com/droog-la-1"
+10596,"bambook","Sweden","http://www.soundcloud.com/bambookmusic"
+11189,"tobi neumann","Germany","http://www.soundcloud.com/djtobineumann"
+331,"mike huckaby","United States","http://www.soundcloud.com/mikehuckaby"
+5735,"the revenge",NULL,"http://www.soundcloud.com/the-revenge"
+6427,"patrice scott","United States","http://www.soundcloud.com/p-scott"
+6710,"giles smith","Britain (UK)","http://www.soundcloud.com/gilessmith"
+8758,"jamie jones",NULL,"http://www.soundcloud.com/jamie-jones"
+23276,"james priestley","united kingdom",NULL
+3995,"kolo & dyze",NULL,"http://www.soundcloud.com/kolo-dyze"
+3116,"dexter kane",NULL,"http://www.soundcloud.com/dexterkane"
+14779,"kenneth christiansen","denmark",NULL
+1552,"the mole",NULL,"http://www.soundcloud.com/moleofsoul"
+4079,"anthony collins","United States","http://www.soundcloud.com/anthonycollins-s-t"
+11245,"cobblestone jazz","canada",NULL
+14308,"bob moses","United States","http://www.soundcloud.com/the-bob-moses"
+20868,"francis harris","usa",NULL
+26420,"frank & tony","United States","http://www.soundcloud.com/scissorandthread"
+5074,"radio slave","united kingdom",NULL
+19885,"palms trax","Germany","http://www.soundcloud.com/palmstrax"
+21674,"skudge","Sweden","http://www.soundcloud.com//skudge-1"
+3054,"alex celler",NULL,"http://www.soundcloud.com/alexceller"
+3896,"fumiya tanaka","japan",NULL
+10617,"guillaume & the coutu dumonts","canada",NULL
+11456,"samuel andré madsen","denmark",NULL
+21761,"zip","germany",NULL
+26115,"bruno schmidt","united kingdom",NULL
+26424,"georgio oniani","united kingdom",NULL
+26425,"matteo manzini",NULL,"http://www.soundcloud.com/matteomanzini"
+43,"brett johnson","United States","http://www.soundcloud.com/brett-johnson"
+3583,"ion ludwig","germany",NULL
+3585,"ryan crosson","United States","http://www.soundcloud.com/ryancrosson"
+7634,"lee curtiss","United States","http://www.soundcloud.com/leecurtiss"
+9063,"visionquest","United States","http://www.soundcloud.com/visionquest-records"
+10118,"shaun reeves","Germany","http://www.soundcloud.com/shaunreeves"
+17878,"silent servant","United States","http://www.soundcloud.com/silentservant"
+2113,"scuba",NULL,"http://www.soundcloud.com/hotflush"
+6868,"mr. tophat","Sweden","http://www.soundcloud.com/mrtophat"
+6893,"art alfie","Sweden","http://www.soundcloud.com/art-alfie"
+8763,"neil landstrumm","united kingdom",NULL
+19481,"ron morelli","United States","http://www.soundcloud.com/l-i-e-s"
+22072,"lee gamble","united kingdom",NULL
+12789,"renato ratier","Brazil","http://www.soundcloud.com/renatoratier"
+12794,"davis (br)",NULL,"http://www.soundcloud.com/davis-genuino"
+1287,"app","Britain (UK)","http://www.soundcloud.com/weareapp"
+19661,"maura",NULL,"http://www.soundcloud.com/mauramusic"
+6621,"archie hamilton","united kingdom",NULL
+1993,"recondite","Germany","http://www.soundcloud.com/recondite_music"
+9456,"phil moffa","United States","http://www.soundcloud.com/philmoffa"
+21648,"enzo tedeschi",NULL,"http://www.soundcloud.com/enzotedeschi"
+9112,"mixhell",NULL,"http://www.soundcloud.com/mixhell"
+9120,"djedjotronic",NULL,"http://www.soundcloud.com/djedjotronic"
+10363,"fake blood","united kingdom",NULL
+4598,"rico casazza",NULL,"http://www.soundcloud.com/ricocasazza"
+26013,"jamma",NULL,"http://www.soundcloud.com/jamma-b-b"
+26620,"la gosse","Britain (UK)","http://www.soundcloud.com/martinerecords"
+18056,"kerouac",NULL,"http://www.soundcloud.com/kerouaclive"
+3050,"rachel lyn",NULL,"http://www.soundcloud.com/rachellyn"
+6535,"monika ross","Australia","http://www.soundcloud.com/monika-ross"
+28287,"julian bomm","Germany","http://www.soundcloud.com/rheinrhythmik"
+3514,"nastia","Ukraine","http://www.soundcloud.com/nastia_ua"
+13610,"prosumer","Germany","http://www.soundcloud.com/prosumer"
+26293,"nicolas lutz","uruguay",NULL
+4135,"t.williams",NULL,"http://www.soundcloud.com/twilliamsmusic"
+13496,"jimmy edgar","United States","http://www.soundcloud.com/jimmyedgar"
+26299,"b.traits",NULL,"http://www.soundcloud.com/btraits"
+26705,"krysko","united kingdom",NULL
+529,"tom demac","united kingdom",NULL
+7523,"nathan coles","Spain","http://www.soundcloud.com/nathancoles"
+13911,"catz 'n dogz","Poland","http://www.soundcloud.com/catzndogz"
+16009,"sebo k","Germany","http://www.soundcloud.com/mobilee-records"
+4020,"eduardo de la calle","Spain","http://www.soundcloud.com/eduardodelacalle"
+5653,"fabio florido","Italy","http://www.soundcloud.com/fabio-florido"
+8034,"marc faenger","Germany","http://www.soundcloud.com/marcfaenger"
+11213,"julian jeweil","France","http://www.soundcloud.com/julianjeweil"
+15919,"richie hawtin","Germany","http://www.soundcloud.com/rhawtin"
+21684,"somne","Italy","http://www.soundcloud.com/somne_smn"
+817,"burnski",NULL,"http://www.soundcloud.com/burnskipower"
+2501,"william kouam djoko","netherlands",NULL
+3146,"samuel deep","Netherlands","http://www.soundcloud.com/samuel-deep"
+4950,"jack wickham",NULL,"http://www.soundcloud.com/jackwickham"
+5971,"ed davenport","Germany","http://www.soundcloud.com/ed-davenport"
 9972,"io","Ukraine","http://www.soundcloud.com/io-mulen"
-30101,"drvg cvltvre","Netherlands","http://www.soundcloud.com/drvgcvltvre"
+306854,"albion forever",NULL,"http://www.soundcloud.com/albionforever"
+2665,"juju & jordash","Netherlands","http://www.soundcloud.com/jujujordash"
+4329,"lauer","germany",NULL
+8189,"blawan","Britain (UK)","http://www.soundcloud.com/blawan"
+11196,"waff",NULL,"http://www.soundcloud.com/waff-2"
+11579,"gerd janson","germany",NULL
+13846,"mark jenkyns",NULL,"http://www.soundcloud.com/markjenkyns"
+28142,"golesworthy",NULL,"http://www.soundcloud.com/golesworthy"
+28586,"london modular",NULL,"http://www.soundcloud.com/london-modular-alliance"
+6891,"tomoki tamura","Germany","http://www.soundcloud.com/tomoki-tamura"
+9470,"temma-teje",NULL,"http://www.soundcloud.com/temma-teje"
+25596,"krankbrother",NULL,"http://www.soundcloud.com/krankbrother"
+31589,"jody barr",NULL,"http://www.soundcloud.com/jodybarrmusic"
+22320,"anestie gomez",NULL,"http://www.soundcloud.com/gomez"
+11520,"geddes",NULL,"http://www.soundcloud.com/Geddes"
+13817,"zoo look",NULL,"http://www.soundcloud.com/zoolook"
+15332,"sisterhood",NULL,"http://www.soundcloud.com/sisterhoodmusic"
+24605,"hesseltime","united kingdom",NULL
+784,"ekkohaus","Germany","http://www.soundcloud.com/ekkohaus"
+25792,"klady","Germany","http://www.soundcloud.com/kladymusic"
+11573,"trikk","portugal",NULL
+20339,"another amit","united kingdom",NULL
+13382,"lorenzo chiabotti","italy",NULL
+28138,"priku","Romania","http://www.soundcloud.com/motif-records"
+40,"luke solomon",NULL,"http://www.soundcloud.com/lukesolomon"
+19663,"adam curtain","united kingdom",NULL
+5085,"dax j","Germany","http://www.soundcloud.com/daxj"
+39555,"raphael.","united kingdom",NULL
+17844,"danny byrd","united kingdom",NULL
+22555,"adam f","united kingdom",NULL
+31600,"document one","united kingdom",NULL
+5037,"jesse rose","United States","http://www.soundcloud.com/jesseroseofficial"
+27202,"troy gunner",NULL,"http://www.soundcloud.com/troygunner"
+307632,"annix",NULL,"http://www.soundcloud.com/annixdnb"
+6059,"truss",NULL,"http://www.soundcloud.com/truss"
+7127,"deetron","Switzerland","http://www.soundcloud.com/deetron"
+13599,"tama sumo","germany",NULL
+32874,"bjarki","Iceland","http://www.soundcloud.com/bjarki"
+2060,"virginia","Germany","http://www.soundcloud.com/virginia-dj"
+7031,"dj qu","United States","http://www.soundcloud.com/djqu-strength-music"
+8171,"jay clarke",NULL,"http://www.soundcloud.com/jay-clarke"
+10775,"felix dickinson","Britain (UK)","http://www.soundcloud.com/felix-dickinson"
+13295,"matrixxman","United States","http://www.soundcloud.com/matrixxman"
+14274,"steffi","germany",NULL
+16280,"tristan da cunha","united kingdom",NULL
+26216,"paranoid london",NULL,"http://www.soundcloud.com/paranoid-london"
+2127,"pépé bradock","france",NULL
+12665,"demdike stare","united kingdom",NULL
+14547,"hunee",NULL,"http://www.soundcloud.com/hunee"
+21799,"spencer",NULL,"http://www.soundcloud.com/SpencerNMBRS"
+26626,"tiger & woods",NULL,NULL
+7763,"wiley","united kingdom",NULL
+17843,"logistics","united kingdom",NULL
+23037,"uncle dugs","united kingdom",NULL
+29400,"madam x",NULL,"http://www.soundcloud.com/madam_x"
+2623,"south london ordnance","Germany","http://www.soundcloud.com/south-london-ordnance"
+10381,"roy davis jr","United States","http://www.soundcloud.com/roydavisjr"
+102,"jerome sydenham","Germany","http://www.soundcloud.com/ibadan"
+585,"kerri chandler","United States","http://www.soundcloud.com/kerri-chandler"
+20194,"voyeur",NULL,"http://www.soundcloud.com/voyeuraudio"
+26203,"stephane ghenacia","united kingdom",NULL
+1711,"san proper","Netherlands","http://www.soundcloud.com/san-proper"
+2996,"soul clap","United States","http://www.soundcloud.com/soulclap"
+3001,"nick monaco","United States","http://www.soundcloud.com/nickmonaco"
+10909,"mike dunn","United States","http://www.soundcloud.com/therealmikedunn"
+12144,"tom trago","netherlands",NULL
+12156,"no regular play","United States","http://www.soundcloud.com/noregularplay"
+3049,"sam russo",NULL,"http://www.soundcloud.com/russomusic"
+4139,"tevo howard","United States","http://www.soundcloud.com/tevohowardrecordings"
+4942,"kate simko",NULL,"http://www.soundcloud.com/katesimko"
+159,"mathew jonson","Germany","http://www.soundcloud.com/mathew-jonson"
+8628,"dvs1","usa",NULL
+11212,"loco dice","Germany","http://www.soundcloud.com/locodiceofc"
+28292,"caleb calloway","United States","http://www.soundcloud.com/calebcalloway"
+1358,"octave one","United States","http://www.soundcloud.com/octaveone"
+7633,"luke hess","United States","http://www.soundcloud.com/deepisdeep"
+10931,"carl craig","United States","http://www.soundcloud.com/planetedetroit"
+15740,"kevin saunderson","United States","http://www.soundcloud.com/kevinsaunderson"
+1106,"no artificial colours",NULL,"http://www.soundcloud.com/nacsmusic"
+13913,"hannah wants",NULL,"http://www.soundcloud.com/hannah_wants"
+16918,"heidi","Britain (UK)","http://www.soundcloud.com/heidi-dj"
+18204,"zenker brothers","germany",NULL
+18226,"jonas kopp","Argentina","http://www.soundcloud.com/koppter"
+39,"petre inspirescu","romania",NULL
+9633,"alan fitzpatrick","Britain (UK)","http://www.soundcloud.com/alanfitzpatrick"
+21160,"floorplan","usa",NULL
+29944,"cab drivers","germany",NULL
+14557,"jakes","united kingdom",NULL
+22788,"dj hazard","united kingdom",NULL
+25571,"shut up and dance","united kingdom",NULL
+1065,"copy paste soul",NULL,"http://www.soundcloud.com/copy-paste-soul"
+11610,"shy fx","Britain (UK)","http://www.soundcloud.com/shyfx"
+13757,"mella dee","united kingdom",NULL
+27390,"tessellate","united kingdom",NULL
+13179,"mistajam","Britain (UK)","http://www.soundcloud.com/mistajam"
+22805,"andy c","united kingdom",NULL
+3997,"paco osuna","Spain","http://www.soundcloud.com/paco-osuna"
+7536,"john digweed","Britain (UK)","http://www.soundcloud.com/john-digweed"
+20643,"fer br","Spain","http://www.soundcloud.com/ferbr"
+17020,"roska",NULL,"http://www.soundcloud.com/roskaroskaroska"
+26068,"blazey","united kingdom",NULL
+26292,"royal-t","united kingdom",NULL
+28478,"mike skinner","united kingdom",NULL
+309707,"",NULL,NULL
+3296,"om unit","Britain (UK)","http://www.soundcloud.com/omunit"
+26126,"riko dan","Britain (UK)","http://www.soundcloud.com/rikodan"
+304236,"sam binga",NULL,"http://www.soundcloud.com/sam_binga"
+2794,"mark broom",NULL,"http://www.soundcloud.com/beardman"
+5083,"james ruskin","Britain (UK)","http://www.soundcloud.com/jamesruskin"
+8647,"samuel kerridge",NULL,"http://www.soundcloud.com/samuelkerridge"
+14567,"makaton","united kingdom",NULL
+11604,"margaret dygas","germany",NULL
+1835,"sigha","Britain (UK)","http://www.soundcloud.com/sigha"
+4405,"daze maxim","germany",NULL
+11482,"ayarcana","Oman","http://www.soundcloud.com/ayarcana"
+26267,"cw/a","italy",NULL
+26591,"cezar","romania",NULL
+6073,"shifted","Britain (UK)","http://www.soundcloud.com/shifted"
+14886,"robin ordell","united kingdom",NULL
+20334,"kobosil","Germany","http://www.soundcloud.com/kobosil"
+4456,"october",NULL,"http://www.soundcloud.com/october"
+9789,"green velvet","usa",NULL
+16119,"call super","Aaland Islands","http://www.soundcloud.com/call-super"
+304892,"digital farm animals",NULL,"http://www.soundcloud.com/DigitalFarmAnimals"
+15354,"lamine",NULL,"http://www.soundcloud.com/lamine-1"
+3504,"andre buljat","Spain","http://www.soundcloud.com/andre-buljat"
+4661,"adnan sharif","Brazil","http://www.soundcloud.com/djadnan"
+10949,"shadow child",NULL,"http://www.soundcloud.com/theshadowchild"
+7899,"chase & status","Britain (UK)","http://www.soundcloud.com/chaseandstatus"
+9087,"fabrizio maurizi","italy",NULL
+29415,"eyesmoon","united kingdom",NULL
+11467,"octad","Italy","http://www.soundcloud.com/octad"
+6688,"radioactive man","united kingdom",NULL
+310207,"",NULL,NULL
+7972,"benga",NULL,"http://www.soundcloud.com/iambenga"
+11236,"ipman",NULL,"http://www.soundcloud.com/ipman"
+22374,"pinch","united kingdom",NULL
+10145,"sammy dee","Germany","http://www.soundcloud.com/ultrastretch"
+1068,"leon vynehall",NULL,"http://www.soundcloud.com/vynehall"
+1412,"fjaak","Germany","http://www.soundcloud.com/fjaak"
+2423,"johanna knutsson",NULL,"http://www.soundcloud.com/johannaknutsson"
+2451,"beaner","Germany","http://www.soundcloud.com/beaner"
+4412,"dennis ferrer","United States","http://www.soundcloud.com/dennis-ferrer"
+5040,"aril brikha","Sweden",NULL
+8252,"mike parker","usa",NULL
+9127,"max graef",NULL,"http://www.soundcloud.com/max-graef"
+9780,"len faki","Germany","http://www.soundcloud.com/figure-official"
+10627,"chymera","ireland",NULL
+10803,"nd_baumecker","Germany","http://www.soundcloud.com/ndbaumecker"
+15568,"dj tennis","United States","http://www.soundcloud.com/djtennisdjtennis"
+18992,"héctor oaks","Germany","http://www.soundcloud.com/hectoroaks"
+21072,"uvb","Germany","http://www.soundcloud.com/uvb"
+3564,"tadeo","Spain","http://www.soundcloud.com/cyclicaltracks"
+5417,"samuli kemppi","Finland","http://www.soundcloud.com/samulikemppi"
+5435,"pvs","italy",NULL
+9846,"moerbeck","Germany","http://www.soundcloud.com/moerbeck"
+14571,"coefficient",NULL,"http://www.soundcloud.com/coefficient"
+17301,"nx1","spain",NULL
+18987,"freddy k","germany",NULL
+20160,"max_m","Italy","http://www.soundcloud.com/max_m"
+22020,"arcing seas","germany",NULL
+4427,"spencer parker","Germany","http://www.soundcloud.com/spencerparker"
+25261,"young male","usa",NULL
+25263,"dj richard",NULL,"http://www.soundcloud.com/white-material-records"
+25312,"sven von thülen","germany",NULL
+31811,"aubry","France","http://www.soundcloud.com/aubrysoundcloud"
+19,"oliver deutschmann","Germany","http://www.soundcloud.com/oliverdeutschmann"
+2911,"xdb","Germany","http://www.soundcloud.com/xdb"
+3216,"mano le tough","Germany","http://www.soundcloud.com/manoletough"
+6598,"staffan linzatti","sweden",NULL
+8038,"inland","united kingdom",NULL
+8497,"thor","Iceland","http://www.soundcloud.com/thor_thule_records"
+15989,"fiedel",NULL,"http://www.soundcloud.com/fiedelone"
+34141,"somewhen","Germany","http://www.soundcloud.com/somewhen-1"
+143,"rainer trüby","germany",NULL
+826,"art of tones","france",NULL
+2528,"boris","Germany","http://www.soundcloud.com/boris"
+9934,"konstantin sibold","France","http://www.soundcloud.com/caramelorecords-1"
+10935,"ambivalent","usa",NULL
+11734,"ge-ology","United States","http://www.soundcloud.com/geology365"
+13357,"redshape","Germany","http://www.soundcloud.com/redshape"
+14937,"subjected",NULL,"http://www.soundcloud.com/subjected"
+15649,"kyodai","Germany","http://www.soundcloud.com/kyodai"
+22848,"mad mats","Sweden","http://www.soundcloud.com/madmats"
+23780,"soundstream","germany",NULL
+31944,"tooli",NULL,"http://www.soundcloud.com/tooli"
+72,"perc","Britain (UK)","http://www.soundcloud.com/perc"
+1894,"jeroen search","Netherlands","http://www.soundcloud.com/jeroensearch"
+1917,"dimi angelis","Netherlands","http://www.soundcloud.com/dimi-angelis"
+1936,"amir alexander","United States","http://www.soundcloud.com/amir-alexander"
+2003,"innerspace halflife","usa",NULL
+4251,"dj spider","United States","http://www.soundcloud.com/djspidernyc"
+4260,"dakini9","United States","http://www.soundcloud.com/dakini9"
+6492,"oracy","Germany","http://www.soundcloud.com/mojubarecords"
+10017,"dinky","chile",NULL
+10281,"dj pete","Germany","http://www.soundcloud.com/peter-kuschnereit"
+22676,"stefan rein","Germany","http://www.soundcloud.com/stefan-rein"
+24734,"buzz goree","usa",NULL
+69,"oskar offermann","Germany","http://www.soundcloud.com/oskaroffermann"
+1454,"schmutz (uk)","Ireland","http://www.soundcloud.com/schmutzbelfast"
+2045,"dj rolando","Britain (UK)","http://www.soundcloud.com/rolando000"
+8507,"edward","Germany","http://www.soundcloud.com/edward"
+8639,"heiko laux","Germany","http://www.soundcloud.com/heikolaux"
+10960,"monoloc","germany",NULL
+13861,"dirt crew","germany",NULL
+15496,"andrew weatherall","united kingdom",NULL
+16982,"ateq","Germany","http://www.soundcloud.com/ateq"
+16984,"konstantin",NULL,"http://www.soundcloud.com/herr-koreander"
+22687,"ron albrecht","germany",NULL
+22826,"albrecht wassersleben","Germany","http://www.soundcloud.com/a-w-1"
+24099,"sandrien","Netherlands","http://www.soundcloud.com/sandrien"
+30909,"roi perez","israel",NULL
+5295,"i-f","netherlands",NULL
+10825,"french fries","France","http://www.soundcloud.com/mrfrenchfries"
+18615,"italojohnson","germany",NULL
+34140,"june","Germany","http://www.soundcloud.com/june"
+2125,"the bug","united kingdom",NULL
+155,"motor city drum ensemble","Netherlands","http://www.soundcloud.com/mcde-recordings"
+743,"pbr streetgang",NULL,"http://www.soundcloud.com/pbrstreetgang"
+3046,"tini","Germany","http://www.soundcloud.com/tinicouldbeworse"
+5185,"inigo kennedy","Britain (UK)","http://www.soundcloud.com/inigokennedy"
+6388,"basic soul unit","Canada","http://www.soundcloud.com/basic-soul-unit"
+10955,"rødhåd","Germany","http://www.soundcloud.com/rodhad"
+16108,"linkwood","united kingdom",NULL
+20175,"ctrls","Denmark","http://www.soundcloud.com/ctrls"
+24629,"kr!z","belgium",NULL
+25042,"gilb'r","France","http://www.soundcloud.com/gilbr"
+1228,"cabanne","France","http://www.soundcloud.com/cabanne-minibar"
+5398,"voices from the lake","italy",NULL
+8294,"derek plaslaiko","Germany","http://www.soundcloud.com/plaslaiko"
+10918,"marco shuttle","united kingdom",NULL
+16104,"borrowed identity","Germany","http://www.soundcloud.com/borrowed-identity"
+18425,"âme","Germany","http://www.soundcloud.com/ame"
+21105,"eric cloutier","Germany","http://www.soundcloud.com/cloutier"
+26829,"bryan kasenic","United States","http://www.soundcloud.com/TheBunkerNY"
+10933,"neville watson","united kingdom",NULL
+34145,"erwan","Germany","http://www.soundcloud.com/meurvor"
+2920,"berg",NULL,NULL
+4976,"antigone","France","http://www.soundcloud.com/antigone"
+17557,"headless horseman",NULL,"http://www.soundcloud.com/headlesshorseman-1"
+19402,"barker","Germany","http://www.soundcloud.com/voltek"
+405,"don williams","Germany","http://www.soundcloud.com/donwilliamsofficial"
+4728,"eamon harkin","usa",NULL
+6629,"massimiliano pagliara","italy",NULL
+6983,"dario zenker","Germany","http://www.soundcloud.com/dario-zenker"
+10922,"duplex","Netherlands","http://www.soundcloud.com/duplex-techno"
+10932,"serge","netherlands",NULL
+10969,"terence fixmer","France","http://www.soundcloud.com/terence-fixmer"
+11433,"muallem","germany",NULL
+11507,"lake people","Germany","http://www.soundcloud.com/lakepeople"
+13537,"juan maclean","usa",NULL
+15476,"marco zenker","Germany","http://www.soundcloud.com/marco-zenker"
+15990,"permanent vacation","germany",NULL
+17742,"new jackson","Ireland","http://www.soundcloud.com/newjackson"
+18205,"stenny",NULL,"http://www.soundcloud.com/stennyit"
+20799,"mister saturday night","United States","http://www.soundcloud.com/mistersaturdaynight"
+26758,"justin carter","usa",NULL
+1064,"laurent garnier","France","http://www.soundcloud.com/laurent-garnier"
+1416,"bambounou","France","http://www.soundcloud.com/bambounou"
+5247,"scan x","france",NULL
+328,"peverelist",NULL,"http://www.soundcloud.com/peverelist"
+1646,"fabrice lig","Belgium","http://www.soundcloud.com/fabricelig"
+3424,"kowton","Britain (UK)","http://www.soundcloud.com/kowton"
+6370,"matthew styles","Germany","http://www.soundcloud.com/matthewstyles"
+10929,"awanto3","netherlands",NULL
+18168,"blind observatory",NULL,"http://www.soundcloud.com/blind-observatory"
+34149,"vincent neumann","Germany","http://www.soundcloud.com/vincent-neumann"
+8373,"rené audiard","usa",NULL
+16443,"evan baggs","usa",NULL
+23927,"jamie fry","united kingdom",NULL
+3055,"plant43","united kingdom",NULL
+8681,"dj stingray","usa",NULL
+8934,"hard ton","italy",NULL
+8936,"dj overdose","netherlands",NULL
+30898,"partok","Israel","http://www.soundcloud.com/partok"
+34148,"axiom (cl)",NULL,"http://www.soundcloud.com/axiom_berlin"
+1074,"martyn","United States","http://www.soundcloud.com/3024world"
+2663,"keith worthy","usa",NULL
+2818,"francois x","France","http://www.soundcloud.com/francoisx"
+4609,"andré galluzzi","Germany","http://www.soundcloud.com/andre-galluzzi"
+5838,"joy orbison","Britain (UK)","http://www.soundcloud.com/joy-orbison"
+9505,"albert van abbe","Netherlands","http://www.soundcloud.com/albert_van_abbe"
+9926,"kosme","France","http://www.soundcloud.com/kosme"
+17827,"mmm","Germany","http://www.soundcloud.com/mmm-berlin"
+19207,"etapp kyle","Germany","http://www.soundcloud.com/etappkyle"
+24581,"times are ruff","Netherlands","http://www.soundcloud.com/times-are-ruff"
+967,"vakula","Ukraine","http://www.soundcloud.com/vakula"
+7660,"gesloten cirkel","netherlands",NULL
+14938,"planetary assault systems","united kingdom",NULL
+18686,"john osborn","Germany","http://www.soundcloud.com/johnosborn"
+22925,"volcov","italy",NULL
+25353,"lakuti","united kingdom",NULL
+29445,"dekmantel soundsystem","netherlands",NULL
+34150,"ryan james ford",NULL,"http://www.soundcloud.com/ryanjamesford"
+231,"richard devine","usa",NULL
+2478,"move d","Germany","http://www.soundcloud.com/move-d"
+14543,"joefarr",NULL,"http://www.soundcloud.com/joefarr"
+15027,"dolan bergin","Britain (UK)","http://www.soundcloud.com/electricminds"
+19844,"laurel halo","Germany","http://www.soundcloud.com/laurelhalo"
+27108,"millie & andrea","united kingdom",NULL
+3837,"tako","Netherlands","http://www.soundcloud.com/redlightrecords-amsterdam"
+6079,"shawn o'sullivan","United States","http://www.soundcloud.com/shawnosullivan"
+23536,"francesco de bellis","italy",NULL
+6946,"benedikt frey",NULL,"http://www.soundcloud.com/freybenedikt"
+13618,"the citizen's band","germany",NULL
+19138,"ata","germany",NULL
+1686,"santé","Germany","http://www.soundcloud.com/sante"
+3833,"pär grindvik","Germany","http://www.soundcloud.com/grindvik"
+7283,"anja schneider","Germany","http://www.soundcloud.com/mobilee-records"
+8008,"andhim","Germany","http://www.soundcloud.com/andhim"
+9099,"camea",NULL,"http://www.soundcloud.com/camea"
+9104,"ellen allien","Germany","http://www.soundcloud.com/ellen-allien"
+9758,"adam port","Germany","http://www.soundcloud.com/adam-port"
+10984,"tommy four seven","Germany","http://www.soundcloud.com/tommyfourseven"
+12787,"rotciv","germany",NULL
+14929,"leevey","Germany","http://www.soundcloud.com/leevey"
+18974,"&me","Germany","http://www.soundcloud.com/andmeandyou"
+22021,"barker & baumecker","Germany","http://www.soundcloud.com/barker-baumecker"
+4710,"the black madonna","United States","http://www.soundcloud.com/theblackmadonna"
+10744,"miss honey dijon","United States","http://www.soundcloud.com/honeydijon"
+11354,"lena willikens",NULL,"http://www.soundcloud.com/lenawillikens"
+16992,"dustin",NULL,"http://www.soundcloud.com/gieglingdustin"
+21741,"richard zepezauer","Germany","http://www.soundcloud.com/richardzepezauer"
+16924,"dixon","Germany","http://www.soundcloud.com/innervisions"
+432,"joel mull","Sweden","http://www.soundcloud.com/joelmull"
+9077,"kiki","Germany","http://www.soundcloud.com/kikigoodvoodoo"
+10688,"baikal","Germany","http://www.soundcloud.com/baikal-bai-kyul"
+11607,"jus-ed","usa",NULL
+20198,"the drifter",NULL,"http://www.soundcloud.com/thedriftersound"
+4142,"midland","Britain (UK)","http://www.soundcloud.com/midland"
+5420,"juho kusti","Finland","http://www.soundcloud.com/juhokusti"
+10426,"aiken","spain",NULL
+13354,"vril","germany",NULL
+15373,"svreca","spain",NULL
+17522,"xxxy","Germany","http://www.soundcloud.com/xxxy"
+18110,"cio d'or","Germany","http://www.soundcloud.com/cio-d-or"
+24369,"eli verveine","Switzerland","http://www.soundcloud.com/eli-verveine"
+26265,"citizenn",NULL,"http://www.soundcloud.com/citizencitizen"
+33489,"dr. rubinstein","germany",NULL
+4193,"stephen brown","united kingdom",NULL
+4422,"sven weisemann","Germany","http://www.soundcloud.com/svenweisemann"
+10114,"stereociti","Germany","http://www.soundcloud.com/stereociti"
+208,"lakker","Germany","http://www.soundcloud.com/lakker"
+1005,"tessela",NULL,"http://www.soundcloud.com/tessela"
+5357,"agoria","France","http://www.soundcloud.com/agoria"
+9855,"discodromo","germany",NULL
+12002,"maceo plex","Spain","http://www.soundcloud.com/maceoplex"
+17666,"objekt","Germany","http://www.soundcloud.com/keinobjekt"
+1507,"steevio",NULL,"http://www.soundcloud.com/steevio"
+4413,"tallmen785","Germany","http://www.soundcloud.com/tallmen785"
+9622,"chris duckenfield","united kingdom",NULL
+10810,"ian pooley","Germany","http://www.soundcloud.com/ianpooley"
+10953,"prins thomas","Norway","http://www.soundcloud.com/prinsthomas"
+13532,"marcus marr",NULL,"http://www.soundcloud.com/marcus-marr"
+4616,"route 8","Hungary","http://www.soundcloud.com/route8"
+19901,"asquith",NULL,"http://www.soundcloud.com/lobster-theremin"
+19904,"daze.","Australia","http://www.soundcloud.com/daze111"
+31043,"panthera krause","Germany","http://www.soundcloud.com/panthera-krause"
+34151,"imre kiss","Hungary","http://www.soundcloud.com/imrekiss"
+224,"lotic","Germany","http://www.soundcloud.com/lotic"
+8148,"m.e.s.h.",NULL,"http://www.soundcloud.com/m-e-s-h"
+9747,"lawrence","germany",NULL
+13592,"carsten jost","germany",NULL
+17728,"arca","usa",NULL
+30751,"dj nigga fox","Angola","http://www.soundcloud.com/dj-nigga-fox-lx-monke"
+31086,"kablam","germany",NULL
+34153,"primitive art","italy",NULL
+10702,"kalabrese","switzerland",NULL
+3696,"shackleton",NULL,"http://www.soundcloud.com/simon_shackleton"
+5840,"george fitzgerald","Germany","http://www.soundcloud.com/george-fitzgerald"
+10957,"speedy j","netherlands",NULL
+16650,"andre bratten","Norway","http://www.soundcloud.com/andre-bratten"
+18227,"andrea","Italy","http://www.soundcloud.com/andreamusik"
+26102,"mike servito","United States","http://www.soundcloud.com/mikeservito"
+26793,"jacob meehan","United States","http://www.soundcloud.com/jacob-meehan"
+2918,"dorisburg","sweden",NULL
+20807,"anthony naples","usa",NULL
+34152,"anna haleta","israel",NULL
+34154,"concubine","Germany","http://www.soundcloud.com/concubine-berlin"
+6975,"tom dicicco",NULL,"http://www.soundcloud.com/tomdiciccomusic"
+8731,"fred p","United States","http://www.soundcloud.com/black-jazz-consortium"
+10283,"beau wanzer","usa",NULL
+25185,"squarepusher","united kingdom",NULL
+2126,"tin man","Austria","http://www.soundcloud.com/tinman"
+8555,"blue hour","Germany","http://www.soundcloud.com/bluehour909"
+11673,"steve bicknell",NULL,"http://www.soundcloud.com/steve-bicknell"
+11691,"cassegrain","Germany","http://www.soundcloud.com/cassegrain"
+34156,"post scriptum","Germany","http://www.soundcloud.com/postscriptumlive"
+782,"fcl","Belgium","http://www.soundcloud.com/therealfcl"
+4530,"peder","italy",NULL
+5195,"chez damier","usa",NULL
+5531,"oscar mulero","Spain","http://www.soundcloud.com/oscarmulero"
+11234,"red d","Belgium","http://www.soundcloud.com/red-d"
+12000,"san soda","belgium",NULL
+13356,"simon haydo","Sweden","http://www.soundcloud.com/simon-haydo"
+13604,"russ gabriel","germany",NULL
+22017,"positive centre","Germany","http://www.soundcloud.com/positivecentre"
+22981,"pris","Germany","http://www.soundcloud.com/resinresin"
+26932,"jeremy underground","france",NULL
+30434,"jensen","belgium",NULL
+1975,"abe duque","usa",NULL
+8114,"monty luke","United States","http://www.soundcloud.com/montyluke"
+13546,"phil asher","united kingdom",NULL
+20867,"steve o'sullivan","united kingdom",NULL
+17551,"claire morgan",NULL,"http://www.soundcloud.com/claire-morgan"
+34155,"nitam","Germany","http://www.soundcloud.com/nitamberlin"
+6505,"kai alce","usa",NULL
+22026,"maurice fulton","usa",NULL
+3703,"okain","Germany","http://www.soundcloud.com/okain"
+4515,"dana ruh","Germany","http://www.soundcloud.com/danaruh"
+5423,"aybee","Germany","http://www.soundcloud.com/deepblak"
+5540,"developer","United States","http://www.soundcloud.com/modularz"
+10287,"tr-101","germany",NULL
+11192,"re.you","Germany","http://www.soundcloud.com/reyou"
+14277,"floyd lavine","south africa",NULL
+16654,"ruede hagelstein","Germany","http://www.soundcloud.com/ruede"
+18829,"henning baer","Germany","http://www.soundcloud.com/henningbaerberlin"
+19035,"hanno hinkelbein","Germany","http://www.soundcloud.com/null-records"
+3587,"dandy jack","France","http://www.soundcloud.com/dandy-jack"
+964,"murat tepeli","Germany","http://www.soundcloud.com/promoton"
+2162,"giorgio gigli","Italy","http://www.soundcloud.com/giorgiogigli"
+9012,"dj nature",NULL,"http://www.soundcloud.com/natureboy"
+15116,"lory d","italy",NULL
+19058,"antal","netherlands",NULL
+19178,"sterac","germany",NULL
+20485,"akirahawks",NULL,"http://www.soundcloud.com/h_m-1"
+158,"matthew herbert","united kingdom",NULL
+9257,"lapalux",NULL,"http://www.soundcloud.com/lapalux"
+9370,"pantha du prince","germany",NULL
+9384,"gabi","United States","http://www.soundcloud.com/gabi-detroit"
+11928,"triad","Germany","http://www.soundcloud.com/triadaudio"
+15407,"rival consoles",NULL,"http://www.soundcloud.com/rivalconsoles"
+15415,"kiasmos","Britain (UK)","http://www.soundcloud.com/erasedtapes"
+17187,"mssingno",NULL,"http://www.soundcloud.com/mssingno"
+17310,"michael rother","germany",NULL
+18111,"inga copeland","united kingdom",NULL
+21274,"daniel miller","united kingdom",NULL
+25854,"james pants","usa",NULL
+28453,"neneh cherry","united kingdom",NULL
+30186,"dj fitz","Britain (UK)","http://www.soundcloud.com/fitz5000"
+19789,"agf","germany",NULL
+23152,"holly herndon","United States","http://www.soundcloud.com/hollyherndon"
+30834,"amnesia scanner","germany",NULL
+11644,"jennifer cardini",NULL,"http://www.soundcloud.com/jennifercardini"
+21223,"dj disko","germany",NULL
+25632,"dj hmc","Australia","http://www.soundcloud.com/late-nite-tuff-guy"
+25921,"black devil disco club","france",NULL
+6520,"aurora halal","United States","http://www.soundcloud.com/itsallhalal"
+22479,"dske","Japan","http://www.soundcloud.com/dske"
+12895,"dasha rush",NULL,"http://www.soundcloud.com/dasha-rush"
+16979,"kettenkarussell","germany",NULL
+18548,"frank bretschneider","germany",NULL
+21272,"diamond version","germany",NULL
+22806,"kyoka","Germany","http://www.soundcloud.com/kyoka"
+22807,"grischa lichtenberger","germany",NULL
+22824,"ueno masaaki","Germany","http://www.soundcloud.com/ueno_masaaki"
+29336,"manamana","germany",NULL
+30338,"lux.",NULL,"http://www.soundcloud.com/lux-io"
+15463,"young marco","netherlands","https://soundcloud.com/youngmarco"
+16747,"beautiful swimmers",NULL,"http://www.soundcloud.com/beautifulswimmers"
+26817,"octo octa","United States","http://www.soundcloud.com/octoocta"
+595,"timmy regisford","usa",NULL
+5821,"phase fatale","Germany","http://www.soundcloud.com/phasefatale"
+12357,"lil' louis","usa",NULL
+3563,"hieroglyphic being","usa",NULL
+21136,"rabih beaini","germany",NULL
+30311,"charles cohen","usa",NULL
+314,"ceephax acid crew","united kingdom",NULL
+8987,"nathan fake","united kingdom",NULL
+18180,"avalon emerson",NULL,"http://www.soundcloud.com/avalonemerson"
+306,"luke vibert","united kingdom",NULL
+17046,"cedric maison","united kingdom",NULL
+26317,"house of black lanterns","Germany","http://www.soundcloud.com/houseofblacklanterns"
+10954,"mike dehnert","Germany","http://www.soundcloud.com/mike-dehnert"
+13377,"aardvarck","netherlands",NULL
+4326,"quarion","Germany","http://www.soundcloud.com/quarion"
+14496,"patrik skoog","germany",NULL
+34157,"christian tilt","Norway","http://www.soundcloud.com/christian-tilt"
+1426,"the automatic message","Canada","http://www.soundcloud.com/the-automatic-message"
+11558,"voiski","France","http://www.soundcloud.com/voiski"
+12250,"kangding ray","germany",NULL
+20098,"rahaan","usa",NULL
+18479,"dj harvey","united kingdom",NULL
+136,"smallpeople","germany",NULL
+2896,"moomin","Germany","http://www.soundcloud.com/moomin"
+2946,"christopher rau","Germany","http://www.soundcloud.com/christopher-rau"
+11889,"xosar","Germany","http://www.soundcloud.com/xosar"
+17240,"dj nobu","japan",NULL
+17302,"adriana lopez","Spain","http://www.soundcloud.com/adrianalopez"
+18472,"carlos souffront","usa",NULL
+26201,"volte-face",NULL,"http://www.soundcloud.com/volte_face_bleed"
+134,"chris colburn","Germany","http://www.soundcloud.com/chris-colburn"
+337,"deadbeat","Germany","http://www.soundcloud.com/deadbeat"
+11346,"danny daze","United States","http://www.soundcloud.com/dannydaze"
+11511,"few nolder","Lithuania","http://www.soundcloud.com/fewnolder"
+34158,"leiras",NULL,"http://www.soundcloud.com/theownlife"
+31,"melchior productions ltd","germany",NULL
+21126,"james dean brown","Tokelau","http://www.soundcloud.com/james-dean-brown"
+7759,"glenn astro",NULL,"http://www.soundcloud.com/glenn-astro"
+19486,"florian kupfer",NULL,"http://www.soundcloud.com/kupfer"
+15751,"dj t.","Germany","http://www.soundcloud.com/deejaytea"
+11204,"kyle geiger","usa",NULL
+12547,"silicone soul",NULL,"http://www.soundcloud.com/siliconesoul"
+16999,"dauwd","Britain (UK)","http://www.soundcloud.com/dauwd"
+11557,"tuff city kids","germany",NULL
+2793,"mary velo","Germany","http://www.soundcloud.com/maryvelo"
+29929,"janina","Germany","http://www.soundcloud.com/ja-nina"
+6736,"wareika","Germany","http://www.soundcloud.com/Wareika"
+14752,"alec empire",NULL,"http://www.soundcloud.com/alec_empire"
+1365,"purity ring","canada",NULL
+8161,"echoplex",NULL,"http://www.soundcloud.com/peterechoplex"
+10817,"thomas hessler","Germany","http://www.soundcloud.com/thomas-hesslerberlin"
+12484,"honey soundsystem","usa",NULL
+16995,"jeffrey sfire","germany",NULL
+25939,"todd edwards","United States","http://www.soundcloud.com/toddedwards3000"
+30863,"aaron clark","United States","http://www.soundcloud.com/humanaut-aaron"
+10737,"stefan goldmann","Germany","http://www.soundcloud.com/stefangoldmann"
+13621,"oliver hafenbauer",NULL,"http://www.soundcloud.com/die-orakel"
+34127,"adalberto","germany",NULL
+29480,"lee bannon",NULL,"http://www.soundcloud.com/bannon"
+1265,"felix k",NULL,"http://www.soundcloud.com/flxk1"
+8192,"tropic of cancer","United States","http://www.soundcloud.com/camellalobo"
+8240,"prurient","usa",NULL
+8279,"raime","united kingdom",NULL
+22083,"bill kouligas","Germany",NULL
+26190,"josey rebelle",NULL,"http://www.soundcloud.com/joseyrebelle"
+13922,"battles","usa",NULL
+16,"trevino","Britain (UK)","http://www.soundcloud.com/marcusintalex"
+6691,"rod","Netherlands","http://www.soundcloud.com/rodmalmok"
+8483,"lapien","Netherlands","http://www.soundcloud.com/lapien"
+20812,"daniël jacques","Netherlands","http://www.soundcloud.com/mrdanieljacques"
+305605,"ghetto","United States","http://www.soundcloud.com/d_p_c"
+5470,"hd substance","spain",NULL
+11905,"dj sprinkles","usa",NULL
+18004,"rroxymore","Germany","http://www.soundcloud.com/rroxymore"
+26655,"steve mizek","usa",NULL
+34210,"julia holter","United States","http://www.soundcloud.com/juliaholter"
+8930,"local suicide","Germany","http://www.soundcloud.com/localsuicide"
+23067,"peaches","germany",NULL
+32395,"peter kirn","Germany","http://www.soundcloud.com/peterkirn"
+37905,"kritzkom",NULL,"http://www.soundcloud.com/kritzkom"
+20172,"finn johannsen","Germany","http://www.soundcloud.com/finn_johannsen"
+21200,"atomtm","Chile","http://www.soundcloud.com/atom_tm"
+18471,"ectomorph","usa",NULL
+18501,"dj hell","Germany","http://www.soundcloud.com/djhellofficial"
+18005,"planningtorock","germany",NULL
+178,"four tet","Britain (UK)","http://www.soundcloud.com/four-tet"
+6815,"mark ernestus","germany",NULL
+13535,"larry gus","Greece","http://www.soundcloud.com/larrygus"
+14302,"junior boys","canada",NULL
+14869,"floating points","united kingdom",NULL
+173,"henrik schwarz","Germany","http://www.soundcloud.com/henrikschwarz"
+5288,"fanon flowers","usa",NULL
+7572,"zadig","France","http://www.soundcloud.com/zadig-construct_re-form"
+8384,"raiz","United States","http://www.soundcloud.com/raiz-droid"
+209,"eomac","Germany","http://www.soundcloud.com/eomac"
+742,"pfirter","Spain","http://www.soundcloud.com/info-52"
+15341,"chevel","Italy","http://www.soundcloud.com/enklav"
+4240,"markus suckut","Germany","http://www.soundcloud.com/markussuckut"
+4514,"","germany",NULL
+5086,"cleric",NULL,"http://www.soundcloud.com/Cleric"
+12741,"philippe petit","France","http://www.soundcloud.com/philippe-petit-chamonix"
+14634,"lewis fautzi","Portugal","http://www.soundcloud.com/lewisfautzi"
+15996,"roman poncet","France","http://www.soundcloud.com/roman-poncet"
+25366,"jamie xx","united kingdom",NULL
+26120,"barnt","germany",NULL
+304142,"lövestad","netherlands",NULL
+157,"roger 23","Germany","http://www.soundcloud.com/Roger23"
+9612,"john heckle",NULL,"http://www.soundcloud.com/john-heckle"
+10280,"substance","germany",NULL
+20115,"lunar disko djs",NULL,"http://www.soundcloud.com/lunardiskorecords"
+31275,"automatic tasty","Ireland","http://www.soundcloud.com/automatictastys"
+6496,"nick anthony simoncino","Japan","http://www.soundcloud.com/simoncino"
+6956,"sunil sharpe","Ireland","http://www.soundcloud.com/sunilsharpe"
+7342,"gonno","Japan","http://www.soundcloud.com/gonno"
+10119,"vincent lemieux","canada",NULL
+20107,"hudson mohawke","united kingdom",NULL
+14849,"oneohtrix point never","usa",NULL
+10814,"nsdos","france",NULL
+10827,"aleqs notal","France","http://www.soundcloud.com/aleqsnotal"
+10833,"coni","France","http://www.soundcloud.com/conidj"
+31208,"flexonaut","Germany","http://www.soundcloud.com/flexonaut"
+94,"luigi madonna","Italy","http://www.soundcloud.com/luigimadonna"
+3360,"adam beyer","Sweden","http://www.soundcloud.com/adambeyer"
+3763,"sam paganini","Italy","http://www.soundcloud.com/sam_paganini"
+9218,"juan sanchez","Netherlands","http://www.soundcloud.com/juan-sanchez"
+20033,"paramida","Germany","http://www.soundcloud.com/paramida"
+4211,"stanislav tolkachev",NULL,"http://www.soundcloud.com/stanislavtolkachev"
+3224,"aera","Germany","http://www.soundcloud.com/aeraaleph"
+6142,"convextion","usa",NULL
+6375,"john daly","Ireland","http://www.soundcloud.com/john-daly"
+13468,"goldwill","Germany","http://www.soundcloud.com/goldwill"
+14651,"mono junk","finland",NULL
+26205,"matt jam lamont",NULL,"http://www.soundcloud.com/matt-jam-lamont"
+22163,"markus nikolai","germany",NULL
+13641,"jaures",NULL,"http://www.soundcloud.com/enziantapes"
+1880,"2562 / a made up sound","Netherlands","http://www.soundcloud.com/2562amadeupsound"
+10924,"randomer",NULL,"http://www.soundcloud.com/randomer"
+13967,"ashley beedle","united kingdom",NULL
+21847,"stump valley","usa",NULL
+24874,"jimi tenor","finland",NULL
+28698,"gerald van der hint","Austria","http://www.soundcloud.com/vanderhint"
+304379,"wrecked","usa",NULL
+23315,"andy stott","united kingdom",NULL
+40441,"rainer veil",NULL,"http://www.soundcloud.com/rainerveil"
+434,"inter gritty","Sweden","http://www.soundcloud.com/inter_gritty"
+12639,"optimo","united kingdom",NULL
+16993,"fort romeau",NULL,"http://www.soundcloud.com/fortromeau"
+13565,"hercules & love affair","usa",NULL
+25845,"the golden filter","usa",NULL
+18088,"jessy lanza","canada",NULL
+2966,"sierra sam","germany",NULL
+4167,"pascal hetzel","Germany","http://www.soundcloud.com/pascalhetzel"
+113,"trevor jackson","Britain (UK)","http://www.soundcloud.com/trevor-jackson"
+189,"circlesquare","canada",NULL
+330,"portable",NULL,"http://www.soundcloud.com/portable-aka-bodycode"
+3329,"cromby",NULL,"http://www.soundcloud.com/cromby"
+8272,"jeff derringer","United States","http://www.soundcloud.com/jeffderringer"
+13358,"polar inertia","France","http://www.soundcloud.com/polarinertia"
+14645,"the black dog",NULL,"http://www.soundcloud.com/the-black-dog"
+15386,"lee j malcolm","united kingdom",NULL
+15682,"swoose",NULL,"http://www.soundcloud.com/dannysimpson1"
+28486,"vessels","Britain (UK)","http://www.soundcloud.com/vessels"
+309724,"",NULL,NULL
+18519,"marcel vogel","Netherlands","http://www.soundcloud.com/marcel-vogel-dj-mixes"
+25302,"dj minx","United States","http://www.soundcloud.com/djminx"
+372,"shinedoe",NULL,"http://www.soundcloud.com/Shinedoe"
+4323,"toby tobias","united kingdom",NULL
+13550,"dj spun","United States","http://www.soundcloud.com/therealdjspun"
+26743,"michael serafini","usa",NULL
+34039,"d-man","germany",NULL
+10767,"isolee","germany",NULL
+1032,"garry todd","australia",NULL
+1377,"shed","germany",NULL
+1405,"phon.o","Germany","http://www.soundcloud.com/phon-o"
+1406,"modeselektor","Germany","http://www.soundcloud.com/modeselektor"
+1438,"benjamin damage","Britain (UK)","http://www.soundcloud.com/benjamindamage"
+18412,"lil tony","finland",NULL
+26918,"solar","usa",NULL
+18042,"sophie",NULL,"http://www.soundcloud.com/msmsmsm"
+4188,"henrik bergqvist","Sweden","http://www.soundcloud.com/henkebergqvist"
+12647,"moscoman",NULL,"http://www.soundcloud.com/moscoman"
+18129,"i/y","Germany","http://www.soundcloud.com/i-y"
+30399,"mareena",NULL,"http://www.soundcloud.com/mareenaofficial"
+34353,"sebastian kökow",NULL,"http://www.soundcloud.com/sk29"
+6694,"mark archer",NULL,"http://www.soundcloud.com/mrnex"
+8691,"waze & odyssey",NULL,"http://www.soundcloud.com/wazeandodyssey"
+16276,"adam x","germany",NULL
+16660,"telephones","Germany","http://www.soundcloud.com/telephones"
+34167,"campbell irvine","germany",NULL
+41409,"mark van hoen","united kingdom",NULL
+309723,"",NULL,NULL
+22967,"peak & swift",NULL,"http://www.soundcloud.com/peakswift"
+30032,"grizzly",NULL,"http://www.soundcloud.com/grizzly"
+21986,"hmot",NULL,"http://www.soundcloud.com/hmotology"
+20684,"hamid","Britain (UK)","http://www.soundcloud.com/hamidsmusic"
+20685,"david gluck","france",NULL
+1455,"s3a","France","http://www.soundcloud.com/S3Acontact"
+32490,"la mamie's","France","http://www.soundcloud.com/lamamies"
+10657,"pablo valentino","France","http://www.soundcloud.com/faces-records"
+16421,"society of silence","France","http://www.soundcloud.com/societyofsilence"
+20333,"wincent kunth","switzerland",NULL
+3548,"specter","usa",NULL
+14222,"norm talley","usa",NULL
+19591,"suleiman","France","http://www.soundcloud.com/suleimanlatency"
+19598,"sidney",NULL,"http://www.soundcloud.com/latency-recordings"
+2128,"donato dozzy","Italy","http://www.soundcloud.com/donato-dozzy"
+6503,"john sill","France","http://www.soundcloud.com/johnsill"
+8970,"didier allyne","France","http://www.soundcloud.com/didier-allyne"
+31812,"janeret","France","http://www.soundcloud.com/Janeret"
+14885,"vadim svoboda","france",NULL
+4444,"alex from tokyo","United States","http://www.soundcloud.com/alexfromtokyo"
+326,"jared wilson","usa",NULL
+11475,"behzad & amarou","france",NULL
+132,"alexi delano","United States","http://www.soundcloud.com/alexidelano"
+433,"jesper dahlbäck","sweden",NULL
+4355,"xhin","Singapore","http://www.soundcloud.com/xhin"
+5453,"as patria",NULL,"http://www.soundcloud.com/aspatria"
+3032,"andrés zacco","argentina",NULL
+4253,"d.k.",NULL,"http://www.soundcloud.com/d-k-music"
+6779,"joe claussell","United States","http://www.soundcloud.com/sacredrhythm"
+10844,"arno e. mathieu","France","http://www.soundcloud.com/arno-e-mathieu"
+4589,"cleymoore","Portugal","http://www.soundcloud.com/cleymoore"
+22460,"marc milner","France","http://www.soundcloud.com/marc-milner"
+5319,"osunlade","Greece","http://www.soundcloud.com/osunlade"
+32327,"wrecka spinnazz club","France","http://www.soundcloud.com/wrecka-spinnazz-club"
+2163,"claudio prc","Italy","http://www.soundcloud.com/claudioprc"
+8969,"fabio della torre","Italy","http://www.soundcloud.com/fabiodellatorre"
+8983,"corcos","italy",NULL
+32539,"exal","France","http://www.soundcloud.com/exalaxel"
+4424,"greg beato","usa",NULL
+19473,"delroy edwards","United States","http://www.soundcloud.com/delroy-edwards"
+24410,"oxyd",NULL,"http://www.soundcloud.com/oxyd"
+18243,"asusu",NULL,"http://www.soundcloud.com/asusu"
+1467,"arttu","Germany","http://www.soundcloud.com/arttu-aka-lump"
+8104,"deep'a & biri","Israel","http://www.soundcloud.com/deepa"
+2634,"lowris","France","http://www.soundcloud.com/lowris"
+19625,"lazare hoche","France","http://www.soundcloud.com/lazare-hoche"
+9268,"shlømo","France","http://www.soundcloud.com/shl-mo"
+28358,"anetha","France","http://www.soundcloud.com/anetha-bloc"
+11724,"eliott litrowski","france",NULL
+957,"ben vedren","France","http://www.soundcloud.com/ben-vedren"
+25424,"mr ties","Germany","http://www.soundcloud.com/mrties"
+1073,"addison groove",NULL,"http://www.soundcloud.com/addisongroove"
+11664,"tomas more","France","http://www.soundcloud.com/tomasmore"
+29502,"december","France","http://www.soundcloud.com/tomasmore"
+1229,"bruno pronsato","Germany","http://www.soundcloud.com/brunopronsato"
+18734,"grego g","France","http://www.soundcloud.com/grego-g"
+17590,"reeko","Spain","http://www.soundcloud.com/reeko"
+24307,"blaise","france",NULL
+7193,"neue grafik",NULL,"http://www.soundcloud.com/neue-grafik"
+24897,"cuthead","germany",NULL
+22227,"wbeeza","united kingdom",NULL
+11268,"roman lindau","Germany","http://www.soundcloud.com/romanlindau"
+15763,"sascha rydell","Germany","http://www.soundcloud.com/rydell"
+18973,"moodymann","United States","http://www.soundcloud.com/mahoganimusic"
+3512,"onur özer","turkey",NULL
+12226,"umho","chile",NULL
+17478,"greg brockmann","united kingdom",NULL
+17764,"hold youth","france",NULL
+10453,"birth of frequency","France","http://www.soundcloud.com/birthoffrequency"
+10644,"marc schneider","germany",NULL
+22722,"rouge mécanique","france",NULL
+29249,"céline",NULL,"http://www.soundcloud.com/celine"
+10962,"dustin zahn","United States","http://www.soundcloud.com/dustin-zahn"
+32411,"dj prophet","France","http://www.soundcloud.com/thep"
+10958,"psyk","Spain","http://www.soundcloud.com/psyk"
+24497,"the gods planet","Italy","http://www.soundcloud.com/thegodsplanet"
+6282,"danny tenaglia","United States","http://www.soundcloud.com/danny-tenaglia-official"
+6303,"molly","France","http://www.soundcloud.com/molly_music"
+9097,"carlos valdes","Netherlands","http://www.soundcloud.com/carlosvaldesmuzik"
+4536,"deepbass",NULL,"http://www.soundcloud.com/deepbass"
+12735,"ssck","France","http://www.soundcloud.com/ssck"
+17132,"black coffee","South Africa","http://www.soundcloud.com/djblackcoffee"
+20112,"jacques greene","Canada","http://www.soundcloud.com/jacquesgreene"
+31784,"mawimbi","France","http://www.soundcloud.com/wearemawimbi"
+32300,"pouvoir magique","France","http://www.soundcloud.com/pouvoirmagique"
+2543,"jef k","France","http://www.soundcloud.com/jef-k-1"
+13335,"makam","Netherlands","http://www.soundcloud.com/makam"
+2457,"maarten mittendorff","Netherlands","http://www.soundcloud.com/maarten_mittendorff"
+2469,"jasper wolff","Netherlands","http://www.soundcloud.com/jasperwolff"
+7130,"benny rodrigues","netherlands",NULL
+19882,"dj steaw","France","http://www.soundcloud.com/dj-steaw"
+7727,"willie burns","usa",NULL
+9503,"dj tlr","Netherlands","http://www.soundcloud.com/dj-tlr-creme-org"
+18303,"low jack","France","http://www.soundcloud.com/low-jack"
+19479,"svengalisghost","United States","http://www.soundcloud.com/svengalisghost"
+4255,"chris mitchell","usa",NULL
+16130,"hakim murphy","United States","http://www.soundcloud.com/hakimmurphy"
+8270,"luis flores","mexico",NULL
+8282,"drumcell","United States","http://www.soundcloud.com/drumcell"
+6778,"kuniyuki","japan",NULL
+6780,"mr raoul k",NULL,"http://www.soundcloud.com/mr-raoul-k"
+13914,"kaito","japan",NULL
+16417,"hiroshi watanabe","japan",NULL
+11367,"myako","germany",NULL
+3020,"le loup","France","http://www.soundcloud.com/leloupmusic"
+6515,"brawther","France","http://www.soundcloud.com/brawther"
+17777,"se62","ukraine",NULL
+1413,"doc daneeka",NULL,"http://www.soundcloud.com/docdaneeka"
+11625,"kasper marott","Denmark","http://www.soundcloud.com/kaspermarott"
+3804,"felipe valenzuela","chile",NULL
+3883,"vlad caia",NULL,"http://www.soundcloud.com/vladcaia"
+9630,"mike dearborn","United States","http://www.soundcloud.com/mikedearbornchicago"
+13038,"dj deep","france",NULL
+11884,"soolee",NULL,"http://www.soundcloud.com/soolee"
+17136,"nummer",NULL,"http://www.soundcloud.com/nummer"
+8702,"leif",NULL,"http://www.soundcloud.com/djleif"
+29947,"mouloud","france",NULL
+2890,"the analogue cops","germany",NULL
+6952,"dj bone","United States","http://www.soundcloud.com/subjectdetroit"
+22462,"matthew hawtin","canada",NULL
+29992,"size pier","France","http://www.soundcloud.com/size-pier"
+6088,"paula temple","Germany","http://www.soundcloud.com/paulatemple"
+13429,"killawatt",NULL,"http://www.soundcloud.com/killawatt_uk"
+7668,"cinthie",NULL,"http://www.soundcloud.com/cinthie"
+2480,"ron trent","United States","http://www.soundcloud.com/musicandpower"
+6484,"robert bergman","Netherlands","http://www.soundcloud.com/robert-bergman"
+24366,"interstellar funk","Netherlands","http://www.soundcloud.com/interstellarfunk"
+309756,"",NULL,NULL
+22669,"neel","italy",NULL
+4473,"yone-ko","Germany","http://www.soundcloud.com/yone-ko"
+4131,"delta funktionen",NULL,"http://www.soundcloud.com/deltafunktionen"
+11699,"jerome pacman","France","http://www.soundcloud.com/jeromepacman"
+16425,"clayton guifford","France","http://www.soundcloud.com/clayton-guifford"
+19914,"tom joyce","France","http://www.soundcloud.com/tomjoyce"
+32485,"arthur lastmann","france",NULL
+32605,"step daw","France","http://www.soundcloud.com/stepdaw"
+3286,"milton bradley",NULL,"http://www.soundcloud.com/do-not-resist-the-beat"
+29318,"dasha redkina",NULL,"http://www.soundcloud.com/redkina"
+13492,"scan 7","usa",NULL
+29873,"nick v","France","http://www.soundcloud.com/nickv"
+305500,"hugo lx","France","http://www.soundcloud.com/hugo-lx"
+10605,"seuil","france",NULL
+12258,"rone",NULL,"http://www.soundcloud.com/rone-music"
+2149,"the hacker","France","http://www.soundcloud.com/the-hacker"
+15571,"maelstrom","united kingdom",NULL
+10378,"gilles peterson","united kingdom",NULL
+14716,"distant echoes",NULL,"http://www.soundcloud.com/distant_echoes"
+14717,"alex.do",NULL,"http://www.soundcloud.com/alex-do"
+1665,"oxia","France","http://www.soundcloud.com/oxia-official"
+7322,"busy p","france",NULL
+26928,"boston bun","france",NULL
+10951,"john talabot","spain",NULL
+11356,"superpoze",NULL,"http://www.soundcloud.com/superpoze"
+17730,"pachanga boys","germany",NULL
+19768,"mind against","Germany","http://www.soundcloud.com/mindagainst"
+17833,"horse meat disco","united kingdom",NULL
+10601,"robag wruhme","germany",NULL
+13531,"marcus worgull","Germany","http://www.soundcloud.com/marcusworgull"
+29962,"howling",NULL,"http://www.soundcloud.com/howlinghowling"
+30997,"head high","germany",NULL
+149,"patrice baumel","Netherlands","http://www.soundcloud.com/patrice-baumel"
+11651,"agents of time","Italy","http://www.soundcloud.com/agents-of-time"
+9570,"gab mcfly","France","http://www.soundcloud.com/gabmcfly"
+10456,"dolfeels","France","http://www.soundcloud.com/dolfeels"
+11584,"teets (fr)","France","http://www.soundcloud.com/teets-france"
+37813,"juanito","France","http://www.soundcloud.com/juanito_musique"
