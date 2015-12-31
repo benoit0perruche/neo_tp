@@ -1,3 +1,5 @@
+#Neo4j Homework
+**By A. Lafanechere & Benoit Perruche**
 ##Introduction
 Being electronic music lovers we tried to model relationships betweens Djs, and 4 well known european night clubs : La Belle Electrique (Grenoble), Concrete (Paris), Fabric (London), Berghain/Panorama Bar (Berlin). 
 
@@ -81,4 +83,6 @@ We chosed to create indexes for :
 *  **Club.name**, **Dj.name** to quickly retrieve information about the entities like the artists or the nighclubs
 * **Track.playback_count** and **BoilerRoom.view_count** to be able to do query related to artists notoriety 
  
- Because we defined uniqueness constraint Neo4j created indexes  on the fields we wanted to be unique.
+ Because we defined uniqueness constraint, Neo4j created indexes  on the fields we wanted to be unique.
+ 
+ ##Complex queries
