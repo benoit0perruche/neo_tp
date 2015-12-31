@@ -1,9 +1,12 @@
 ##Introduction
 Being electronic music lovers we tried to model relationships betweens Djs, and 4 well known european night clubs : La Belle Electrique (Grenoble), Concrete (Paris), Fabric (London), Berghain/Panorama Bar (Berlin). 
 
-We also added to those data the tracks released by these djs and the Boiler Room videos they may be featured in. Boiler Room is a YouTube channel broadcasting live mix of trendy djs.
+We also added to those data the tracks released by these djs and the Boiler Room videos they may be featured in. Boiler Room is a YouTube channel broadcasting live mix of trendy djs. We finally added the Top 100 of best djs according to a poll on Resident Advisor.
 
-We built our csv datasets from Resident Advisor website and through SoundCloud API.
+Event data are confined to 2015.
+
+We built our csv datasets from [Resident Advisor](http://residentadvisor.net), [SoundCloud API](https://developers.soundcloud.com/docs/api/guide) and [YouTube API](https://developers.google.com/youtube/).
+We decided not to provide the scraping code for data retrieval, because we thought it was out of the scope of the homework.
 
 ##Data model
 <pre><code>       ┌─────────────┐                                  ┌───────────────┐
@@ -56,9 +59,10 @@ FEATURED      │                 │                                           
                                                                     RELEASED
 	                                                                       N-1</code></pre>
 
-##Set up
+##Instructions
 Before diving in the graph we designed you need to have a running instance of Neo4j, preferably locally on the default port (7474). 
-To import our data you can either launch `main.py`, the python script we wrote to build the graph or run the queries.
+To import our data in the graph you need to clone this repository.
+You shall execute the `main.py` python script. It will parse the csv files and create constraints, indexes, nodes and relationship thanks to `py2neo`. Do not forget to install this dependency :  `pip install py2neo`.
 
 ##Uniqueness constraints
 Here are the primary keys we defined for our nodes.
