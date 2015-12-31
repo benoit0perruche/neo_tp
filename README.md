@@ -91,4 +91,10 @@ We chosed to create indexes for :
 
 **List the Djs featured in the Top100 that played at La Belle Electrique**
 
- 
+**List the Djs that played at la Belle Electrique and did a BoilerRoom**
+
+**Find the djs with the more playback_count on their tracks and Boiler Room view_count**
+
+**List the Djs that played in the 4 nightclubs in 2015**
+
+**List the Djs that played more than one time, for each nightclub** 
