@@ -157,8 +157,8 @@ if __name__ == '__main__':
         authenticate("127.0.0.1:7474", username, password)
         graph = Graph("http://127.0.0.1:7474/db/data/")
 
-        define_constraints()
         try:
+            define_constraints()
             create_day_nodes(2015)
             create_djs_countries("raw_data/djs.csv")
             create_clubs_countries("raw_data/clubs.csv")
