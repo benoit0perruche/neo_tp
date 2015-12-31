@@ -85,4 +85,10 @@ We chosed to create indexes for :
  
  Because we defined uniqueness constraint, Neo4j created indexes  on the fields we wanted to be unique.
  
- ##Complex queries
+##Complex queries
+
+**Create a playlist of 10 tracks for each nightclubs, ordered by playback_count**
+
+**List the Djs featured in the Top100 that played at La Belle Electrique**
+
+ 
