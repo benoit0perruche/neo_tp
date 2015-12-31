@@ -158,15 +158,18 @@ if __name__ == '__main__':
         graph = Graph("http://127.0.0.1:7474/db/data/")
 
         define_constraints()
-        create_day_nodes(2015)
-        create_djs_countries("raw_data/djs.csv")
-        create_clubs_countries("raw_data/clubs.csv")
-        create_events_clubs("raw_data/events.csv")
-        create_djs_events("raw_data/djs_events.csv")
-        create_djs_tracks("raw_data/tracks.csv")
-        create_djs_boilers("raw_data/brs.csv")
-        create_top("raw_data/top100.csv")
-        create_indexes()
+        try:
+            create_day_nodes(2015)
+            create_djs_countries("raw_data/djs.csv")
+            create_clubs_countries("raw_data/clubs.csv")
+            create_events_clubs("raw_data/events.csv")
+            create_djs_events("raw_data/djs_events.csv")
+            create_djs_tracks("raw_data/tracks.csv")
+            create_djs_boilers("raw_data/brs.csv")
+            create_top("raw_data/top100.csv")
+            create_indexes()
+        except GraphError as e:
+            print e
 
     except SystemError or error.Unauthorized:
         "There was a problem with your credentials please retry"
