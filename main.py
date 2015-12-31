@@ -31,7 +31,7 @@ def define_constraints():
         print error
 
     try:
-        graph.schema.create_uniqueness_constraint("Day", "permalink")
+        graph.schema.create_uniqueness_constraint("Day", "date")
     except GraphError as error:
         print error
 
@@ -140,6 +140,13 @@ def create_top(csv_file):
             graph.create(dj_featured_top)
 
 
+def create_indexes():
+    graph.schema.create_index("Day", "date")
+    graph.schema.create_index("Club", "name")
+    graph.schema.create_index("Dj", "name")
+    graph.schema.create_index("Track", "playback_count")
+    graph.schema.create_index("BoilerRoom", "view_count")
+
 if __name__ == '__main__':
     print "By default the connection is made to the graph on http://127.0.0.1:7474/db/data/"
 
@@ -150,15 +157,17 @@ if __name__ == '__main__':
         authenticate("127.0.0.1:7474", username, password)
         graph = Graph("http://127.0.0.1:7474/db/data/")
 
+        define_constraints()
+        create_day_nodes(2015)
+        create_djs_countries("raw_data/djs.csv")
+        create_clubs_countries("raw_data/clubs.csv")
+        create_events_clubs("raw_data/events.csv")
+        create_djs_events("raw_data/djs_events.csv")
+        create_djs_tracks("raw_data/tracks.csv")
+        create_djs_boilers("raw_data/brs.csv")
+        create_top("raw_data/top100.csv")
+        create_indexes()
+
     except SystemError or error.Unauthorized:
         "There was a problem with your credentials please retry"
 
-    define_constraints()
-    create_day_nodes(2015)
-    create_djs_countries("raw_data/djs.csv")
-    create_clubs_countries("raw_data/clubs.csv")
-    create_events_clubs("raw_data/events.csv")
-    create_djs_events("raw_data/djs_events.csv")
-    create_djs_tracks("raw_data/tracks.csv")
-    create_djs_boilers("raw_data/brs.csv")
-    create_top("raw_data/top100.csv")
