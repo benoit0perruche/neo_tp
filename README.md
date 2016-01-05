@@ -63,8 +63,13 @@ FEATURED      │                 │                                           
 
 ##Instructions
 Before diving in the graph we designed you need to have a running instance of Neo4j, preferably locally on the default port (7474). 
-To import our data in the graph you need to clone this repository.
-You shall execute the `main.py` python script. It will parse the csv files and create constraints, indexes, nodes and relationship thanks to `py2neo`. Do not forget to install this dependency :  `pip install py2neo`.
+To import our data in the graph you have two options :
+
+* run an instance of Neo4j from our dump that you can download [here](https://www.wetransfer.com/downloads/635a6b542f56bfa2932fcf9a3bbe422520160105171050/94e440e4db534287cc494f8db3fbadb520160105171050/2bd279)
+	* username : neo4j
+	* password : neotp
+	
+* execute the `main.py` python script. It will parse the csv files and create constraints, indexes, nodes and relationship thanks to `py2neo`. But this option will take a long time ! Do not forget to install this dependency :  `pip install py2neo`.
 
 ##Uniqueness constraints
 Here are the primary keys we defined for our nodes.
@@ -79,6 +84,7 @@ Here are the primary keys we defined for our nodes.
 
 ##Indexes
 We chosed to create indexes for :
+
 * **Day.date**, in order to be able to efficiently query time series
 *  **Club.name**, **Dj.name** to quickly retrieve information about the entities like the artists or the nighclubs
 * **Track.playback_count** and **BoilerRoom.view_count** to be able to do query related to artists notoriety 
@@ -87,9 +93,15 @@ We chosed to create indexes for :
  
 ##Complex queries
 
-**Create a playlist of 10 tracks for each nightclubs, ordered by playback_count**
+**Create a playlist of 10 tracks for La Belle Electrique, ordered by playback_count, avoid long tracks because they are probably mixes, we want only real tracks**
+```
+MATCH (club {name:"La Belle Électrique"})-[:HOSTED]->(event)<-[:PLAYED_AT]-(dj)-[:PRODUCED]->(t:Track) WHERE t.duration < 600000
+RETURN t ORDER BY t.playback_count DESC;
+```
 
 **List the Djs featured in the Top100 that played at La Belle Electrique**
+
+**Find the number of Dj that ranked in the Top100 for each nightclub** 
 
 **List the Djs that played at la Belle Electrique and did a BoilerRoom**
 
