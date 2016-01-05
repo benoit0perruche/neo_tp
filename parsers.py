@@ -80,7 +80,7 @@ class BoilerRoomParser():
         with open(self.csv_filepath) as csv_file:
             reader = csv.DictReader(csv_file, delimiter=",")
             return [(Node("BoilerRoom",
-                          id=int(row['br_id']),
+                          id=row['br_id'],
                           title=row["title"],
                           view_count=int(row['view_count']),
                           like_count=int(row['like_count']),
