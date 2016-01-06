@@ -22,7 +22,7 @@ We decided not to provide the scraping code for data retrieval, because we thoug
               │                                1-1              │              1-1
               │                 ┌───────────────────────────────┴────────────────────────────┐
               │                 │                                                            │
-FEATURED      │                 │                                                            │
+FEATURED_IN   │                 │                                                            │
   *rank       │                 │                                                            │
    N-N        │                 │                                                            │
               │                 │                                                            │
