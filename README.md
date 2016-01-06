@@ -118,6 +118,7 @@ RETURN DISTINCT dj.name;
 ```
 
 **Find the 10 djs with the more playback_count on their tracks and Boiler Room view_count**
+Problème, faudrait des distinct dj
 ```
 MATCH (b:BoilerRoom)<-[:PLAYED_AT]-(dj)-[:PRODUCED]->(t:Track)
 RETURN dj.name, b.view_count+t.playback_count AS popularity ORDER BY popularity DESC LIMIT 10;
@@ -133,6 +134,7 @@ MATCH (dj)-[:PLAYED_AT]->(b:BoilerRoom)
 RETURN b.title, dj.name;
 ```
 **List the 10 most popular track with the Dj name and their top100 rank (optionnal) (and avoiding mixes)
+Waouh, OPTIONAL MATCH, such wow
 ```
 MATCH (dj)-[:PRODUCED]->(t:Track)
 OPTIONAL MATCH (dj)-[f:FEATURED_IN]->(Top100)
