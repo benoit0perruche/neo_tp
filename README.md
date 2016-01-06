@@ -104,6 +104,10 @@ RETURN t ORDER BY t.playback_count DESC;
 **Find the number of Dj that ranked in the Top100 for each nightclub** 
 
 **List the Djs that played at la Belle Electrique and did a BoilerRoom**
+```
+MATCH (club {name:"La Belle Électrique"})-[:HOSTED]->(event)<-[:PLAYED_AT]-(dj)-[:PLAYED_AT]->(BoilerRoom)
+RETURN DISTINCT dj.name;
+```
 
 **Find the djs with the more playback_count on their tracks and Boiler Room view_count**
 
