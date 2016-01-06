@@ -117,7 +117,11 @@ MATCH (club {name:"La Belle Électrique"})-[:HOSTED]->(event)<-[:PLAYED_AT]-(dj)
 RETURN DISTINCT dj.name;
 ```
 
-**Find the djs with the more playback_count on their tracks and Boiler Room view_count**
+**Find the 10 djs with the more playback_count on their tracks and Boiler Room view_count**
+```
+MATCH (b:BoilerRoom)<-[:PLAYED_AT]-(dj)-[:PRODUCED]->(t:Track)
+RETURN dj.name, COUNT(b.view_count)+COUNT(t.playback_count) AS popularity ORDER BY popularity DESC LIMIT 10;
+```
 
 **List the Djs that played in the 4 nightclubs in 2015**
 
