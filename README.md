@@ -99,13 +99,13 @@ MATCH (club {name:"La Belle Électrique"})-[:HOSTED]->(event)<-[:PLAYED_AT]-(dj)
 RETURN dj.name, t ORDER BY t.playback_count DESC LIMIT 10;
 ```
 
-**List the Djs featured in the Top100 that played at the Concrete**
+**List the Djs featured in the Top100 with their ranks that played at the Concrete**
 ```
 MATCH (club {name:"Concrete"})-[:HOSTED]->(event)<-[:PLAYED_AT]-(dj)-[f:FEATURED_IN]->(Top100)
 RETURN DISTINCT dj.name, f.rank ORDER BY f.rank ASC;
 ```
 
-**Find the number of Dj that ranked in the Top100 for each nightclub** 
+**Find the number of Djs who are ranked in the Top100 that played in each nightclub** 
 ```
 MATCH (club)-[:HOSTED]->(event)<-[:PLAYED_AT]-(dj)-[:FEATURED_IN]->(Top100)
 RETURN club.name, count(DISTINCT dj.name) AS numberOfDj ORDER BY numberOfDj DESC;
@@ -125,7 +125,7 @@ WHERE numberOfClub = 4
 RETURN djName;
 ```
 
-**List the Djs that played strictly more than one time, for each nightclub** 
+**List the Djs that played strictly more than one time (with the number of times), for each nightclub** 
 ```
 MATCH (club)-[:HOSTED]->(event)<-[:PLAYED_AT]-(dj)
 WITH club.name as clubName, dj.name as djName, COUNT(DISTINCT event) as numberOfEvent
@@ -138,6 +138,11 @@ RETURN clubName, djName, numberOfEvent ORDER BY clubName, numberOfEvent DESC;
 MATCH (dj)-[:PRODUCED]->(t:Track)
 OPTIONAL MATCH (dj)-[f:FEATURED_IN]->(Top100)
 WHERE t.duration < 600000
-RETURN dj.name, t.title, t.playback_count, f.rank ORDER BY t.playback_count DESC LIMIT 10;
+RETURN t.title, dj.name, t.playback_count, f.rank ORDER BY t.playback_count DESC LIMIT 10;
 ```
-
+**Nouvel an, dans quelle boite DJ le plus connu selon top100** Problème comparaison avec date
+```
+MATCH (Top100)<-[f:FEATURED_IN]-(dj)-[:PLAYED_AT]->(event)-[:HAPPENED]->(day)
+WHERE day = "2015-12-31"
+RETURN dj.name, f.rank ORDER BY f.rank ASC LIMIT 1;
+```
