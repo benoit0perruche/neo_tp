@@ -120,9 +120,23 @@ RETURN DISTINCT dj.name;
 **Find the 10 djs with the more playback_count on their tracks and Boiler Room view_count**
 ```
 MATCH (b:BoilerRoom)<-[:PLAYED_AT]-(dj)-[:PRODUCED]->(t:Track)
-RETURN dj.name, COUNT(b.view_count)+COUNT(t.playback_count) AS popularity ORDER BY popularity DESC LIMIT 10;
+RETURN dj.name, b.view_count+t.playback_count AS popularity ORDER BY popularity DESC LIMIT 10;
 ```
 
 **List the Djs that played in the 4 nightclubs in 2015**
 
+
 **List the Djs that played more than one time, for each nightclub** 
+(Pas bon pour l'instant)
+```
+MATCH (dj)-[:PLAYED_AT]->(b:BoilerRoom)
+RETURN b.title, dj.name;
+```
+**List the 10 most popular track with the Dj name and their top100 rank (optionnal) (and avoiding mixes)
+```
+MATCH (dj)-[:PRODUCED]->(t:Track)
+OPTIONAL MATCH (dj)-[f:FEATURED_IN]->(Top100)
+WHERE t.duration < 600000
+RETURN dj.name, t.title, t.playback_count, f.rank ORDER BY t.playback_count DESC LIMIT 10;
+```
+
