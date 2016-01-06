@@ -96,13 +96,13 @@ We chosed to create indexes for :
 **Create a playlist of 10 tracks for La Belle Electrique, ordered by playback_count, avoid long tracks because they are probably mixes, we want only real tracks**
 ```
 MATCH (club {name:"La Belle Électrique"})-[:HOSTED]->(event)<-[:PLAYED_AT]-(dj)-[:PRODUCED]->(t:Track) WHERE t.duration < 600000
-RETURN t ORDER BY t.playback_count DESC;
+RETURN dj.name, t ORDER BY t.playback_count DESC LIMIT 10;
 ```
 
-**List the Djs featured in the Top100 that played at La Belle Electrique**
+**List the Djs featured in the Top100 that played at the Concrete**
 ```
-MATCH (club {name:"La Belle Électrique"})-[:HOSTED]->(event)<-[:PLAYED_AT]-(dj)-[:FEATURED_IN]->(Top100)
-RETURN DISTINCT dj.name;
+MATCH (club {name:"Concrete"})-[:HOSTED]->(event)<-[:PLAYED_AT]-(dj)-[f:FEATURED_IN]->(Top100)
+RETURN DISTINCT dj.name, f.rank ORDER BY f.rank ASC;
 ```
 
 **Find the number of Dj that ranked in the Top100 for each nightclub** 
@@ -111,30 +111,29 @@ MATCH (club)-[:HOSTED]->(event)<-[:PLAYED_AT]-(dj)-[:FEATURED_IN]->(Top100)
 RETURN club.name, count(DISTINCT dj.name) AS numberOfDj ORDER BY numberOfDj DESC;
 ```
 
-**List the Djs that played at la Belle Electrique and did a BoilerRoom**
+**List the Djs and their BoilerRoom (url + view count) that played at Fabric**
 ```
-MATCH (club {name:"La Belle Électrique"})-[:HOSTED]->(event)<-[:PLAYED_AT]-(dj)-[:PLAYED_AT]->(BoilerRoom)
-RETURN DISTINCT dj.name;
-```
-
-**Find the 10 djs with the more playback_count on their tracks and Boiler Room view_count**
-Problème, faudrait des distinct dj
-```
-MATCH (b:BoilerRoom)<-[:PLAYED_AT]-(dj)-[:PRODUCED]->(t:Track)
-RETURN dj.name, b.view_count+t.playback_count AS popularity ORDER BY popularity DESC LIMIT 10;
+MATCH (club {name:"fabric"})-[:HOSTED]->(event)<-[:PLAYED_AT]-(dj)-[:PLAYED_AT]->(b:BoilerRoom)
+RETURN DISTINCT dj.name, b.permalink, b.view_count ORDER BY b.view_count DESC;
 ```
 
-**List the Djs that played in the 4 nightclubs in 2015**
-
-
-**List the Djs that played more than one time, for each nightclub** 
-(Pas bon pour l'instant)
+**List the Djs that played in all the nightclubs of our database (4 nightclubs)**
 ```
-MATCH (dj)-[:PLAYED_AT]->(b:BoilerRoom)
-RETURN b.title, dj.name;
+MATCH (dj)-[:PLAYED_AT]->(event)<-[:HOSTED]-(club)
+WITH dj.name as djName, COUNT(DISTINCT club) as numberOfClub
+WHERE numberOfClub = 4
+RETURN djName;
 ```
+
+**List the Djs that played strictly more than one time, for each nightclub** 
+```
+MATCH (club)-[:HOSTED]->(event)<-[:PLAYED_AT]-(dj)
+WITH club.name as clubName, dj.name as djName, COUNT(DISTINCT event) as numberOfEvent
+WHERE numberOfEvent > 1
+RETURN clubName, djName, numberOfEvent ORDER BY clubName, numberOfEvent DESC;
+```
+
 **List the 10 most popular track with the Dj name and their top100 rank (optionnal)** (and avoiding mixes)
-Waouh, OPTIONAL MATCH, such wow
 ```
 MATCH (dj)-[:PRODUCED]->(t:Track)
 OPTIONAL MATCH (dj)-[f:FEATURED_IN]->(Top100)
