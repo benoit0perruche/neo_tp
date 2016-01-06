@@ -133,7 +133,7 @@ RETURN dj.name, b.view_count+t.playback_count AS popularity ORDER BY popularity 
 MATCH (dj)-[:PLAYED_AT]->(b:BoilerRoom)
 RETURN b.title, dj.name;
 ```
-**List the 10 most popular track with the Dj name and their top100 rank (optionnal) (and avoiding mixes)
+**List the 10 most popular track with the Dj name and their top100 rank (optionnal)** (and avoiding mixes)
 Waouh, OPTIONAL MATCH, such wow
 ```
 MATCH (dj)-[:PRODUCED]->(t:Track)
